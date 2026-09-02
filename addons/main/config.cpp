@@ -8,8 +8,8 @@ class CfgPatches {
         weapons[] = {};
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {  };
-        authors[] = {"Your Name", "Other Author"}; // sub array of authors, considered for the specific addon
-        author = "TAG Team"; // primary author name, either yours or your team's, considered for the whole mod
+        authors[] = {"Andx [TTT]", "Zorn [CVO]"}; // sub array of authors, considered for the specific addon
+        author = "CBC Team"; // primary author name, either yours or your team's, considered for the whole mod
         VERSION_CONFIG;
     };
 };
@@ -20,7 +20,7 @@ class CfgMods {
         dir = "@MOD_NAME";
         name = "My Cool Mod";
         
-        author = "TAG Team";                    // probably shown somewhere in the mods menu, but probably ignored by CBA/HEMTT
+        author = "CBC Team";                    // probably shown somewhere in the mods menu, but probably ignored by CBA/HEMTT
 
         picture         = "title_co.paa";       // Picture displayed from the expansions menu. Optimal size is 2048x1024
         hideName        = "false";              // Hide the extension name in main menu and extension menu

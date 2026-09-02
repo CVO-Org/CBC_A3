@@ -6,22 +6,22 @@ To use for your own project:
 > At root folder:
 
     mod.cpp:
-        * change <Name>, <Author> and <Prefix> to your mod. Prefix is TAG
+        * change <Name>, <Author> and <Prefix> to your mod. Prefix is cbc
 
     icons and title .paa files:
         * replace with your own branding
 
 > in .hemtt/
 
-        * change <Name>, <Author> and <Prefix> to your mod. Prefix is TAG
+        * change <Name>, <Author> and <Prefix> to your mod. Prefix is cbc
 
 > in addons\ :
 
     main:
         stays as is, mostly. Use for shared macros (in main/script_macros.hpp) and to increase version (in main/script_version.hpp)
         
-        * change all occurences of "TAG" to your actual tag in all files
-        * change <Name>, <Author> and <Prefix> in main/config.cpp to your mod. Prefix is TAG
+        * change all occurences of "cbc" to your actual cbc in all files
+        * change <Name>, <Author> and <Prefix> in main/config.cpp to your mod. Prefix is cbc
         * Entries in mod.cpp and CfgMods of main/config.cpp are duplicate, I can't quite tell when which is used, so maybe just keep them synced
 
 
@@ -30,8 +30,8 @@ To use for your own project:
         template for your actual content addons. Rename to your addon. (there is a copy under /templates/)
 
         * change all occurences of "addon_template" to your addon folder name (probably doesn't have to be lowercase)
-        * change all occurences of "ADDON_TEMPLATE" to the same tag, just all caps (used in #defines)
-        * change all occurences of "TAG" to your actual tag in all files
+        * change all occurences of "ADDON_TEMPLATE" to the same cbc, just all caps (used in #defines)
+        * change all occurences of "cbc" to your actual cbc in all files
 
 > hemtt batch files
 

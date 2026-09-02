@@ -42,7 +42,7 @@ CMD_MOVE,
 
   // formations
 CMD_FORM_COLUMN,
-CMD_FORM_STAGCOL,
+CMD_FORM_ScbcCOL,
 CMD_FORM_WEDGE,
 CMD_FORM_ECHLEFT,
 CMD_FORM_ECHRIGHT,
@@ -688,8 +688,8 @@ enum
 #define IDD_EDITOR_LAYOUT                         164
 //Dialogue for publishing mission on Steam.
 #define IDD_PUBLISH_MISSION                       165
-//Dialogue for selecting tags for mission on Steam.
-#define IDD_PUBLISH_MISSION_TAGS 166
+//Dialogue for selecting cbcs for mission on Steam.
+#define IDD_PUBLISH_MISSION_cbcS 166
 //Dialogue for selecting file from the hard drive
 #define IDD_FILE_SELECT_DIALOG                    167
 //Idd reserved for debriefing                     168
@@ -1468,8 +1468,8 @@ enum
 #define IDC_DIFF_OPTIONS_GROUP                    1520
 #define IDC_DIFF_REDUCED_DAMAGE                   1521
 #define IDC_DIFF_GROUP_INDICATORS                 1522
-#define IDC_DIFF_FRIENDLY_TAG                     1523
-#define IDC_DIFF_ENEMY_TAG                        1524
+#define IDC_DIFF_FRIENDLY_cbc                     1523
+#define IDC_DIFF_ENEMY_cbc                        1524
 #define IDC_DIFF_MINES                            1525
 #define IDC_DIFF_COMMANDS                         1526
 #define IDC_DIFF_WAYPOINTS                        1527
@@ -2225,7 +2225,7 @@ enum
 
 // publish / update to Steam workshop
 #define IDC_PUBLISH_STEAM_TITLE                   101
-#define IDC_PUBLISH_STEAM_TAGS                    102
+#define IDC_PUBLISH_STEAM_cbcS                    102
 #define IDC_PUBLISH_STEAM_PICTURE                 103
 #define IDC_PUBLISH_STEAM_DESCRIPTION             104
 #define IDC_PUBLISH_STEAM_MISSION_LIST            105
@@ -2238,7 +2238,7 @@ enum
 #define IDC_PUBLISH_BUTTON_PUBLISH                112
 #define IDC_PUBLISH_BUTTON_UPDATE                 113
 #define IDC_PUBLISH_BUTTON_DELETE                 114
-#define IDC_PUBLISH_BUTTON_EDIT_TAGS              115
+#define IDC_PUBLISH_BUTTON_EDIT_cbcS              115
 #define IDC_PUBLISH_BUTTON_WORKSHOP               116
 #define IDC_PUBLISH_BUTTON_WORKSHOP_LICENCE       117
 #define IDC_PUBLISH_BUTTON_SELECT_PREVIEW         118
@@ -2249,14 +2249,14 @@ enum
 // group that is shown when new mission is selected and hidden when already uploaded mission is selected
 #define IDC_PUBLISH_STEAM_SHOW_NEW_MISSION        122
 
-// publish / update to Steam workshop - tags dialog
-#define IDC_PUBLISH_STEAM_TAGS_AVAILABLE          101
-#define IDC_PUBLISH_STEAM_TAGS_SELECTED           102
-#define IDC_PUBLISH_STEAM_TAGS_ADD                103
-#define IDC_PUBLISH_STEAM_TAGS_REMOVE             104
-#define IDC_PUBLISH_STEAM_TAGS_NEXT               105
-#define IDC_PUBLISH_STEAM_TAGS_BACK               106
-#define IDC_PUBLISH_STEAM_TAGS_TITLE              107
+// publish / update to Steam workshop - cbcs dialog
+#define IDC_PUBLISH_STEAM_cbcS_AVAILABLE          101
+#define IDC_PUBLISH_STEAM_cbcS_SELECTED           102
+#define IDC_PUBLISH_STEAM_cbcS_ADD                103
+#define IDC_PUBLISH_STEAM_cbcS_REMOVE             104
+#define IDC_PUBLISH_STEAM_cbcS_NEXT               105
+#define IDC_PUBLISH_STEAM_cbcS_BACK               106
+#define IDC_PUBLISH_STEAM_cbcS_TITLE              107
 
 // select file dialog
 #define IDC_FILE_SELECT_PATH                      101
