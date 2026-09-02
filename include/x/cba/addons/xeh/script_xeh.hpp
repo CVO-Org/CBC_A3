@@ -54,11 +54,7 @@ reloaded = "call cba_xeh_fnc_reloaded"; \
 firedMan = "call cba_xeh_fnc_firedMan"; \
 turnIn = "call cba_xeh_fnc_turnIn"; \
 turnOut = "call cba_xeh_fnc_turnOut"; \
-deleted = "call cba_xeh_fnc_deleted"; \
-disassembled = "call cba_xeh_fnc_disassembled"; \
-Suppressed = "call cba_xeh_fnc_Suppressed"; \
-gestureChanged = "call cba_xeh_fnc_gestureChanged"; \
-gestureDone = "call cba_xeh_fnc_gestureDone";
+deleted = "call cba_xeh_fnc_deleted";
 
 /*
    MACRO: DELETE_EVENTHANDLERS
@@ -111,8 +107,4 @@ reloaded = ""; \
 firedMan = ""; \
 turnIn = ""; \
 turnOut = ""; \
-deleted = ""; \
-disassembled = ""; \
-Suppressed = ""; \
-gestureChanged = ""; \
-gestureDone = ""
+deleted = "";

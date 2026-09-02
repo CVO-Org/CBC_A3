@@ -48,7 +48,7 @@
 #endif
 
 #ifndef MAINLOGIC
-    #define MAINLOGIC main
+    #define MAINLOGIC main 
 #endif
 
 #define ADDON DOUBLES(PREFIX,COMPONENT)
@@ -853,8 +853,6 @@ Author:
 #define COMPILE_FILE_CFG(var1) COMPILE_FILE_CFG_SYS(PREFIX,COMPONENT_F,var1)
 #define COMPILE_FILE2(var1) COMPILE_FILE2_SYS('var1')
 #define COMPILE_FILE2_CFG(var1) COMPILE_FILE2_CFG_SYS('var1')
-
-#define COMPILE_SCRIPT(var1) compileScript ['PATHTO_SYS(PREFIX,COMPONENT_F,var1)']
 
 
 #define VERSIONING_SYS(var1) class CfgSettings \
@@ -1814,9 +1812,9 @@ Author:
 
 /* -------------------------------------------
 Macro: FILE_EXISTS
-    Check if a file exists
+    Check if a file exists on machines with interface
 
-    Reports "false" if the file does not exist.
+    Reports "false" if the file does not exist and throws an error in RPT.
 
 Parameters:
     FILE - Path to the file
@@ -1830,4 +1828,17 @@ Example:
 Author:
     commy2
 ------------------------------------------- */
-#define FILE_EXISTS(FILE) (fileExists (FILE))
+#define FILE_EXISTS(FILE) (call {\
+    private _return = false;\
+    isNil {\
+        private _control = (uiNamespace getVariable ["RscDisplayMain", displayNull]) ctrlCreate ["RscHTML", -1];\
+        if (isNull _control) then {\
+            _return = loadFile (FILE) != "";\
+        } else {\
+            _control htmlLoad (FILE);\
+            _return = ctrlHTMLLoaded _control;\
+            ctrlDelete _control;\
+        };\
+    };\
+    _return\
+})
