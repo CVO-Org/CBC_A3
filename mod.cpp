@@ -14,7 +14,6 @@ logoOver        = "img\logo-voron-red_128.paa";                                 
 tooltip         = "Community Base Compats";
 tooltipOwned    = "Community Base Addons Owned";                                                                                                          // Tool tip displayed when the mouse is left over, in the main menu
 overview        = "What does Community Base Compats mean? It is a collection of compatibility patches for the Community Base Addon - short CBA_A3.";
-overview        = "overview";                 // Overview text, displayed from the extension menu
 description     = "Bugtracker: https://github.com/CVO-Org/CBC_A3/issues";
 action          = "https://discord.gg/V37bRTnbb8/";                                                                                                // Website URL, that can accessed from the expansions menu 
 actionName      = "Discord";                                                                                                                        // label of button/tooltip in extension menu

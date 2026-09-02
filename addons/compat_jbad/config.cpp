@@ -2,6 +2,9 @@
 
 class CfgPatches {
     class ADDON {
+        author = "$STR_mod_author";
+        url = "$STR_mod_URL";
+
         name = COMPONENT_NAME;
         units[] = {};
         weapons[] = {};

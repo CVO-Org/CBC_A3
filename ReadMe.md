@@ -1,44 +1,19 @@
-**************************************
-*** Easy to expand on mod template ***
-**************************************
-To use for your own project:
+# Community Base Compats
 
-> At root folder:
+Community Base Compats (CBC_A3) is an Arma 3 compatibility mod for Community Base Addons (CBA_A3).
+It provides compatibility patches that help supported community mods work alongside CBA_A3.
 
-    mod.cpp:
-        * change <Name>, <Author> and <Prefix> to your mod. Prefix is cbc
+## Requirements
+- [Community Base Addons (CBA_A3)](https://steamcommunity.com/sharedfiles/filedetails/?id=450814997)
 
-    icons and title .paa files:
-        * replace with your own branding
+## Installation
+Install CBC_A3 through the Steam Workshop or your preferred Arma 3 mod manager.
 
-> in .hemtt/
+## Support
 
-        * change <Name>, <Author> and <Prefix> to your mod. Prefix is cbc
+- [Report an issue](https://github.com/CVO-Org/CBC_A3/issues)
+- [Join the Discord](https://discord.gg/V37bRTnbb8/)
 
-> in addons\ :
+## License
 
-    main:
-        stays as is, mostly. Use for shared macros (in main/script_macros.hpp) and to increase version (in main/script_version.hpp)
-        
-        * change all occurences of "cbc" to your actual cbc in all files
-        * change <Name>, <Author> and <Prefix> in main/config.cpp to your mod. Prefix is cbc
-        * Entries in mod.cpp and CfgMods of main/config.cpp are duplicate, I can't quite tell when which is used, so maybe just keep them synced
-
-
-    addon_template:
-
-        template for your actual content addons. Rename to your addon. (there is a copy under /templates/)
-
-        * change all occurences of "addon_template" to your addon folder name (probably doesn't have to be lowercase)
-        * change all occurences of "ADDON_TEMPLATE" to the same cbc, just all caps (used in #defines)
-        * change all occurences of "cbc" to your actual cbc in all files
-
-> hemtt batch files
-
-!! hemtt needs to be installed in system path or mod directory, otherwise you need to adjust the paths in the batch files !!
-
-    build.bat           - to build without signing. Will build into '.hemttout\build' directory.
-    build_dev.bat           - to build dev version, set up for file patching with associated softlinks. Will build into '.hemttout\dev' directory.
-    build_release.bat   - to build ready for release with signing.  Will build into '.hemttout\release' directory.
-
-If you just build mod as is, your mod will be called "My Cool Mod" and do nothing but put out a chat message when you enter a mission/editor preview.
+This project is released under the [GNU General Public License v2.0](LICENSE.md).
