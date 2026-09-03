@@ -1,5 +1,5 @@
 #define MAINPREFIX x
-#define PREFIX cbc_a3
+#define PREFIX cbc
 
 #define PREFIX_BEAUTIFIED cbc
 

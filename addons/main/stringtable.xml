@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Project name="CBC_A3">
+<Project name="cbc">
     <Package name="Main">
-        <Key ID="STR_cbc_a3_main_author">
+        <Key ID="STR_cbc_main_author">
             <English>CBC Team</English>
         </Key>
-        <Key ID="STR_cbc_a3_main_url">
-            <English>https://github.com/CVO-Org/CBC_A3</English>
+        <Key ID="STR_cbc_main_url">
+            <English>https://github.com/CVO-Org/cbc</English>
         </Key>
     </Package>
 </Project>
