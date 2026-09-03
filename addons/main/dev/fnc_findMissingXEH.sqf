@@ -2,6 +2,7 @@
 /*
  * Authors: PabstMirror
  * Lists Config Classes to RPT which are missing XEH support.
+ * Source: https://github.com/athena413/POTATO/blob/ec10a478da5d2c010dc54a73366d6541f0f656a4/addons/miscFixes/dev_xehFix.sqf
  *
  * Arguments:
  * None.
@@ -15,7 +16,6 @@
  * Public: No
  */
 
-// Fix CBA XEH Fallback Code for misc logic/objects that don't support it:
 diag_log text format ["--- Dumping XEH ---"];
 
 private _reqAddons = [];
