@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Project name="mod-template">
+<Project name="CBC_A3">
     <Package name="Main">
-        <Key ID="STR_mod_URL">
-            <English>https://github.com/CVO-Org/CBC_A3</English>
-        </Key>
-        <Key ID="STR_mod_author">
+        <Key ID="STR_cbc_a3_main_author">
             <English>CBC Team</English>
+        </Key>
+        <Key ID="STR_cbc_a3_main_url">
+            <English>https://github.com/CVO-Org/CBC_A3</English>
         </Key>
     </Package>
 </Project>

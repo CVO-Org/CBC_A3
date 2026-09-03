@@ -5,10 +5,10 @@ class CfgPatches {
 
         // Meta information for editor
         name = ADDON_NAME;
-        author = "$STR_mod_author";
+        author = CSTRING(author);
         authors[] = {"Andx [TTT], OverlordZorn [CVO]"};
         
-        url = "$STR_mod_URL";
+        url = CSTRING(url);
 
         VERSION_CONFIG;
 
@@ -18,7 +18,7 @@ class CfgPatches {
 
         // Required addons, used for setting load order.
         // When any of the addons is missing, pop-up warning will appear when launching the game.
-        requiredAddons[] = {"cba_main","ace_main"};
+        requiredAddons[] = {"cba_main"};
 
         // Optional. If this is 1, if any of requiredAddons[] entry is missing in your game the entire config will be ignored and return no error (but in rpt) so useful to make a compat Mod (Since Arma 3 2.14)
         skipWhenMissingDependencies = 1;
