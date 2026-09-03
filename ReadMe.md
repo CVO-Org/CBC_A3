@@ -17,9 +17,23 @@ Community Base Compats (CBC_A3) is an Arma 3 compatibility mod for Community Bas
 It provides compatibility patches that help supported community mods work alongside CBA_A3.
 
 ## Requirements
+
 - [Community Base Addons (CBA_A3)](https://steamcommunity.com/sharedfiles/filedetails/?id=450814997)
 
+## Supported Mods
+
+CBC_A3 provides compatibility patches for the following mods:
+
+- [Breach - Rewrite](https://steamcommunity.com/sharedfiles/filedetails/?id=3283645995)
+- [Redd'n'Tank Vehicles](https://steamcommunity.com/sharedfiles/filedetails/?id=1128145626)
+- [FIR AWS (AirWeaponSystem)](https://steamcommunity.com/sharedfiles/filedetails/?id=366425329)
+- [BWMod](https://steamcommunity.com/sharedfiles/filedetails/?id=1200127537)
+- [Community Factions Project (CFP)](https://steamcommunity.com/sharedfiles/filedetails/?id=1369691841)
+- [Jbad](https://steamcommunity.com/sharedfiles/filedetails/?id=520618345)
+- Vanilla Arma 3 + (c)DLCs
+
 ## Installation
+
 Install CBC_A3 through the Steam Workshop or your preferred Arma 3 mod manager.
 
 ## Support
