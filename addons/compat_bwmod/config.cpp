@@ -2,10 +2,10 @@
 
 class CfgPatches {
     class ADDON {
-        author = "$STR_mod_author";
-        url = "$STR_mod_URL";
+        author = ECSTRING(main,author);
+        url = ECSTRING(main,url);
 
-        name = COMPONENT_NAME;
+        name = ADDON_NAME;
         units[] = {};
         weapons[] = {};
         requiredVersion = REQUIRED_VERSION;

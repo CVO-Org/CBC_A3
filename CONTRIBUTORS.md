@@ -1,4 +1,4 @@
-## COMMUNITY BASE COMPAT - CONTRIBUTOR LIST
+# COMMUNITY BASE COMPAT - CONTRIBUTOR LIST
 
 Feel free to add yourself to this when creating a pull request, preferably including a summary of the work.
 
