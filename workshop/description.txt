@@ -1,9 +1,12 @@
+ [quote=someone, somewhere][i]Why cant we just have one cba compat mod to unite them all...[/i][/quote] 
+
 [h1]Support the Project[/h1]
 [img]https://i.imgur.com/3Qd4tiO.gif[/img]
 
 [h1]Community Base Compats[/h1]
 
-Community Base Compats (CBC_A3) is an Arma 3 compatibility mod for Community Base Addons (CBA_A3). It provides compatibility patches that help supported community mods work alongside CBA_A3.
+Community Base Compats (CBC_A3) is a collection of CBA compats for multiple different mod with the motivation to unify them all in a single mod.
+
 
 [h1]Supported Mods[/h1]
 CBC_A3 provides compatibility patches for the following mods:
@@ -19,10 +22,6 @@ CBC_A3 provides compatibility patches for the following mods:
 [/list] 
 
 A full list can be found on Github.
-
-[h2]Requirements[/h2]
-
-https://steamcommunity.com/sharedfiles/filedetails/?id=450814997
 
 [h2]Links[/h2]
 [list]
