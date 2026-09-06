@@ -31,7 +31,7 @@ CBC_A3 provides compatibility patches for the following mods:
 - [Community Factions Project (CFP)](https://steamcommunity.com/sharedfiles/filedetails/?id=1369691841)
 - [Jbad](https://steamcommunity.com/sharedfiles/filedetails/?id=520618345)
 - [IFA3 AIO Lite](https://steamcommunity.com/sharedfiles/filedetails/?id=2648308937)
-- [Iron Front ArmA 3 : ACE 3 Compatibility patch](https://steamcommunity.com/sharedfiles/filedetails/?id=773759919)
+- [Iron Front ArmA 3: ACE 3 Compatibility patch](https://steamcommunity.com/sharedfiles/filedetails/?id=773759919)
 - Vanilla Arma 3 + (c)DLCs
 
 ## Installation
