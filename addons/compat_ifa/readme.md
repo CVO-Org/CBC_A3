@@ -4,4 +4,4 @@ Adds `XEH_ENABLED` to `LIB_Armored_Target_Dummy` from `@ifa3_aio_lite` so CBA's 
 
 Steam Workshop: [IFA3 AIO Lite](https://steamcommunity.com/sharedfiles/filedetails/?id=2648308937)
 
-Maintainer: 
+Maintainer: CBC_A3 Team
