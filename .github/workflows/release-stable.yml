@@ -54,8 +54,8 @@ jobs:
         - name: Setup HEMTT
           uses: arma-actions/hemtt@v1
 
-        - name: Run HEMTT script set_RELEASE_VERSION_STABLE
-          run: hemtt script set_RELEASE_VERSION_STABLE
+        - name: Run HEMTT script set_version_readme
+          run: hemtt script set_version_readme
 
         - name: Run HEMTT build
           run: hemtt release --no-archive
