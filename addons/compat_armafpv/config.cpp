@@ -9,7 +9,7 @@ class CfgPatches {
         units[] = {};
         weapons[] = {};
         requiredVersion = REQUIRED_VERSION;
-        requiredAddons[] = {"FPV_UA"};
+        requiredAddons[] = {"ArmaFPV_Data"};
         authors[] = {"Andx"};
         // If any requiredAddons[] entry is missing, the entire config is silently ignored (RPT only) - useful for a compat mod (since Arma 3 2.14)
         skipWhenMissingDependencies = 1;
