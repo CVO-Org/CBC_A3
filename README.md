@@ -14,7 +14,7 @@ Join the Discord for support and updates across our modding projects.
 - [Steam Workshop: Community Base Compats](https://steamcommunity.com/sharedfiles/filedetails/?id=3794706674)
 
 Community Base Compats (CBC_A3) is an Arma 3 compatibility mod for Community Base Addons (CBA_A3).
-It provides compatibility patches that help supported community mods work alongside CBA_A3.
+It provides compatibility patches that help supported community mods work alongside CBA_A3. Currently it fixes CBAs Extended Event Handlers (XEH) for many mods. More Things like CBA Joint Rails and Magwells are planned.
 
 ## Requirements
 
