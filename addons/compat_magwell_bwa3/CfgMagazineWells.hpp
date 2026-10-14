@@ -1,5 +1,7 @@
 // The G36 only takes G36 magazines, never regular STANAG ones, so BWA3 joins the G36 well only.
+// Stanag_556x45_Big is declared empty so the G38's magazineWell[] entry resolves even when no other addon defines it.
 class CfgMagazineWells {
+    class Stanag_556x45_Big {};
     class CBA_556x45_G36 {
         BWA3_Magazines[] = {
             "BWA3_30Rnd_556x45_G36",
