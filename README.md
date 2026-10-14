@@ -14,7 +14,7 @@ Join the Discord for support and updates across our modding projects.
 - [Steam Workshop: Community Base Compats](https://steamcommunity.com/sharedfiles/filedetails/?id=3794706674)
 
 Community Base Compats (CBC_A3) is an Arma 3 compatibility mod for Community Base Addons (CBA_A3).
-It provides compatibility patches that help supported community mods work alongside CBA_A3. Currently it fixes CBAs Extended Event Handlers (XEH) for many mods. More Things like CBA Joint Rails and Magwells are planned.
+It provides compatibility patches that help supported community mods work alongside CBA_A3. Currently it fixes CBAs Extended Event Handlers (XEH) for many mods and adds magazine well (magwell) compatibility for several weapon mods. More things like CBA Joint Rails are planned.
 
 ## Requirements
 
@@ -37,7 +37,12 @@ CBC_A3 provides compatibility patches for the following mods:
 
 Magazine well (magwell) compatibility, each part only active when its mod is loaded:
 
-- Vanilla Arma 3, ACE3, RHS USAF, HLC (G3 / AWC), CUP (M24), R3F (HK417M / HK416M / SIG551)
+- Vanilla Arma 3 (40mm UGL grenades, 150Rnd 5.56mm drums)
+- ACE3 (7.62x51 / 5.56x45 magazines, HuntIR)
+- RHS USAF (XM2010, M4, M14 EBR-RI)
+- HLC (G3 / HK33 / HK53, AWC)
+- CUP (M24)
+- R3F (HK417M, HK416M, SIG551)
 
 ## Installation
 
