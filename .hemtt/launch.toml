@@ -44,3 +44,42 @@ extends = "default"
 workshop = [
     "520618345" #Jbad
 ]
+
+[magwell_ace]
+extends = "default"
+workshop = [
+    "463939057" #ACE3
+]
+
+[magwell_rhs]
+extends = "default"
+workshop = [
+    "843425103", #RHS AFRF
+    "843577117" #RHS USAF
+]
+
+[magwell_hlc_g3]
+extends = "default"
+workshop = [
+    "667454606", #NIArms Core
+    "667375637" #NIArms G3 Rifles
+]
+
+[magwell_hlc_awc]
+extends = "default"
+workshop = [
+    "667454606", #NIArms Core
+    "509730197" #NIArms AWM Rifles
+]
+
+[magwell_cup]
+extends = "default"
+workshop = [
+    "497660133" #CUP Weapons
+]
+
+[magwell_r3f]
+extends = "default"
+workshop = [
+    "941128190" #R3F Armes
+]
