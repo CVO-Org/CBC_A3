@@ -44,6 +44,7 @@ Magazine well (magwell) compatibility, each part only active when its mod is loa
 - CUP (M24)
 - BWA3 (G36 with G36 magazines only, G38, G28 / G27)
 - R3F (HK417M, HK416M, SIG551)
+- JCA standalone weapon mods (Gen 4: M4A1 / M4A4 / SR10 / SR25, M16A4, HK433, HK437, SCAR-H / SCAR-L, P226, M9A1, G17, MP5, UMP, MP7, M107, M115A3)
 
 ## Installation
 

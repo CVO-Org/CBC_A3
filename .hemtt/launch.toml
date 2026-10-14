@@ -89,3 +89,81 @@ extends = "default"
 workshop = [
     "1200127537" #BWMod
 ]
+
+[magwell_jca_gen4]
+extends = "default"
+workshop = [
+    "3149544080" #JCA - Gen 4 Weapon Family
+]
+
+[magwell_jca_m16a4]
+extends = "default"
+workshop = [
+    "3343727154" #JCA - M16A4
+]
+
+[magwell_jca_hk433]
+extends = "default"
+workshop = [
+    "3593321509" #JCA - HK433
+]
+
+[magwell_jca_hk437]
+extends = "default"
+workshop = [
+    "3625840163" #JCA - HK437
+]
+
+[magwell_jca_scar]
+extends = "default"
+workshop = [
+    "3766052768" #JCA - SCAR
+]
+
+[magwell_jca_p226]
+extends = "default"
+workshop = [
+    "3328185289" #JCA - P226
+]
+
+[magwell_jca_m9a1]
+extends = "default"
+workshop = [
+    "3457335790" #JCA - M9A1
+]
+
+[magwell_jca_g17]
+extends = "default"
+workshop = [
+    "3739753424" #JCA - Glock 17
+]
+
+[magwell_jca_mp5]
+extends = "default"
+workshop = [
+    "3302425224" #JCA - MP5A5
+]
+
+[magwell_jca_ump]
+extends = "default"
+workshop = [
+    "3397288027" #JCA - UMP45
+]
+
+[magwell_jca_mp7]
+extends = "default"
+workshop = [
+    "3798659916" #JCA - MP7A2
+]
+
+[magwell_jca_m107]
+extends = "default"
+workshop = [
+    "3559739995" #JCA - M107A1
+]
+
+[magwell_jca_awm]
+extends = "default"
+workshop = [
+    "3148699851" #JCA - M115A3
+]
