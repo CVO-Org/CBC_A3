@@ -35,6 +35,10 @@ CBC_A3 provides compatibility patches for the following mods:
 - [FPV Drone Crocus](https://steamcommunity.com/sharedfiles/filedetails/?id=3045129955)
 - Vanilla Arma 3 + (c)DLCs
 
+Magazine well (magwell) compatibility, each part only active when its mod is loaded:
+
+- Vanilla Arma 3, ACE3, RHS USAF, HLC (G3 / AWC), CUP (M24), R3F (HK417M / HK416M / SIG551)
+
 ## Installation
 
 Install CBC_A3 through the Steam Workshop or your preferred Arma 3 mod manager.
