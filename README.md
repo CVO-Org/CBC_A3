@@ -42,6 +42,7 @@ Magazine well (magwell) compatibility, each part only active when its mod is loa
 - RHS USAF (XM2010, M4, M14 EBR-RI)
 - HLC (G3 / HK33 / HK53, AWC)
 - CUP (M24)
+- BWA3 (G36 with G36 magazines only, G38, G28 / G27)
 - R3F (HK417M, HK416M, SIG551)
 
 ## Installation
