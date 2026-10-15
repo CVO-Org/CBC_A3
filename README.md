@@ -14,7 +14,7 @@ Join the Discord for support and updates across our modding projects.
 - [Steam Workshop: Community Base Compats](https://steamcommunity.com/sharedfiles/filedetails/?id=3794706674)
 
 Community Base Compats (CBC_A3) is an Arma 3 compatibility mod for Community Base Addons (CBA_A3).
-It provides compatibility patches that help supported community mods work alongside CBA_A3. Currently it fixes CBAs Extended Event Handlers (XEH) for many mods. More Things like CBA Joint Rails and Magwells are planned.
+It provides compatibility patches that help supported community mods work alongside CBA_A3. Currently it fixes CBAs Extended Event Handlers (XEH) for many mods and adds magazine well (magwell) compatibility for several weapon mods. More things like CBA Joint Rails are planned.
 
 ## Requirements
 
@@ -34,6 +34,17 @@ CBC_A3 provides compatibility patches for the following mods:
 - [Iron Front ArmA 3: ACE 3 Compatibility patch](https://steamcommunity.com/sharedfiles/filedetails/?id=773759919)
 - [FPV Drone Crocus](https://steamcommunity.com/sharedfiles/filedetails/?id=3045129955)
 - Vanilla Arma 3 + (c)DLCs
+
+Magazine well (magwell) compatibility, each part only active when its mod is loaded:
+
+- Vanilla Arma 3 (40mm UGL grenades, 150Rnd 5.56mm drums)
+- ACE3 (7.62x51 / 5.56x45 magazines, HuntIR)
+- RHS USAF (XM2010, M4, M14 EBR-RI)
+- HLC (G3 / HK33 / HK53, AWC)
+- CUP (M24)
+- BWA3 (G36 with G36 magazines only, G38, G28 / G27)
+- R3F (HK417M, HK416M, SIG551)
+- JCA standalone weapon mods (Gen 4: M4A1 / M4A4 / SR10 / SR25, M16A4, HK433, HK437, SCAR-H / SCAR-L, P226, M9A1, G17, MP5, UMP, MP7, M107, M115A3)
 
 ## Installation
 
