@@ -13,6 +13,8 @@ class CfgPatches {
         authors[] = {"Andx"};
         // If any requiredAddons[] entry is missing, the entire config is silently ignored (RPT only) - useful for a compat mod (since Arma 3 2.14)
         skipWhenMissingDependencies = 1;
+        // Skipped when JCA - Infantry Arsenal is loaded, compat_magwell_jca_ia handles that case (since Arma 3 2.22)
+        skipWhenAnyAddonPresent[] = {"Weapons_F_JCA_IA"};
         VERSION_CONFIG;
     };
 };

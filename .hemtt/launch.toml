@@ -167,3 +167,9 @@ extends = "default"
 workshop = [
     "3148699851" #JCA - M115A3
 ]
+
+[magwell_jca_ia]
+extends = "default"
+workshop = [
+    "3333302397" #JCA - Infantry Arsenal
+]
