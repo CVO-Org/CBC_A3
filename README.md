@@ -3,12 +3,9 @@
 [![Steam Subscriptions](https://img.shields.io/steam/subscriptions/3794706674?style=for-the-badge&logo=steam&label=Steam%20Workshop&color=%23690000&link=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fid%3D3794706674)](https://steamcommunity.com/sharedfiles/filedetails/?id=3794706674)
 [![Discord Invite](https://img.shields.io/discord/1422294842897203200?label=Discord&logo=discord&logoColor=white&style=for-the-badge&color=darkgreen)](https://discord.gg/V37bRTnbb8/)
 
-Community Base Compats (CBC_A3) is a community-maintained collection of compatibility patches and small fixes for Arma 3 mods, built on [Community Base Addons (CBA_A3)](https://steamcommunity.com/sharedfiles/filedetails/?id=450814997).
+Community Base Compats (CBC_A3) is a community-maintained collection of compatibility patches and small fixes for Arma 3 mods.
 
 Each patch only loads when the mod it targets is loaded, so you can run CBC_A3 alongside any modset.
-
-> [!NOTE]
-> Community Base Fixes (CBF_A3) has been merged into CBC_A3. If you used CBF_A3, replace it with CBC_A3.
 
 ## Features
 
