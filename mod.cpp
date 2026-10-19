@@ -12,14 +12,14 @@ logo            = "img\logo_ca.paa";                                            
 logoOver        = "img\logo_ca.paa";                                                                                                                // When the mouse is over, in the main menu 128x128
 
 tooltip         = "Community Base Compats";
-tooltipOwned    = "Community Base Addons Owned";                                                                                                          // Tool tip displayed when the mouse is left over, in the main menu
-overview        = "What does Community Base Compats mean? It is a collection of compatibility patches for the Community Base Addon - short CBA_A3.";
+tooltipOwned    = "Community Base Compats Owned";                                                                                                        // Tool tip displayed when the mouse is left over, in the main menu
+overview        = "Community Base Compats (CBC_A3) is a community maintained collection of compatibility patches and small fixes for Arma 3 mods: CBA Extended Event Handler (XEH) fixes, magazine well compatibility and terrain tweaks.";
 description     = "Bugtracker: https://github.com/CVO-Org/CBC_A3/issues";
 action          = "https://discord.gg/V37bRTnbb8/";                                                                                                // Website URL, that can accessed from the expansions menu 
 actionName      = "Discord";                                                                                                                        // label of button/tooltip in extension menu
 
 overviewPicture = "img\logo_ca.paa";
-overviewText = "Community Base Compats overviewText";
+overviewText = "Compatibility patches and small fixes for Arma 3 mods, built on CBA_A3. Each part only loads when its mod is present.";
 
 overviewFootnote = "<br /><br /><t color='#999999'>This content is under GPLv2 License.<br />Press <t /><t color='#19d3ff'>Left Shift + P<t /><t color='#999999'> to open the store page for more information.<t />";
 
