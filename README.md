@@ -1,67 +1,73 @@
 # Community Base Compats
 
 [![Steam Subscriptions](https://img.shields.io/steam/subscriptions/3794706674?style=for-the-badge&logo=steam&label=Steam%20Workshop&color=%23690000&link=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fid%3D3794706674)](https://steamcommunity.com/sharedfiles/filedetails/?id=3794706674)
-
-## Discord
-
-Join the Discord for support and updates across our modding projects.
-
 [![Discord Invite](https://img.shields.io/discord/1422294842897203200?label=Discord&logo=discord&logoColor=white&style=for-the-badge&color=darkgreen)](https://discord.gg/V37bRTnbb8/)
 
-## Links
+Community Base Compats (CBC_A3) is a community-maintained collection of compatibility patches and small fixes for Arma 3 mods, built on [Community Base Addons (CBA_A3)](https://steamcommunity.com/sharedfiles/filedetails/?id=450814997).
 
-- [GitHub Repository: Community Base Compats](https://github.com/CVO-Org/CBC_A3)
-- [Steam Workshop: Community Base Compats](https://steamcommunity.com/sharedfiles/filedetails/?id=3794706674)
+Each patch only loads when the mod it targets is loaded, so you can run CBC_A3 alongside any modset.
 
-Community Base Compats (CBC_A3) is an Arma 3 compatibility mod for Community Base Addons (CBA_A3).
-It provides compatibility patches that help supported community mods work alongside CBA_A3. Currently it fixes CBAs Extended Event Handlers (XEH) for many mods and adds magazine well (magwell) compatibility for several weapon mods. It also includes small tweaks for some terrains, such as turning rain into snow on winter maps. More things like CBA Joint Rails are planned.
+> [!NOTE]
+> Community Base Fixes (CBF_A3) has been merged into CBC_A3. If you used CBF_A3, replace it with CBC_A3.
 
-Community Base Fixes (CBF_A3) has been merged into CBC_A3. If you used CBF_A3, switch to CBC_A3.
+## Features
 
-## Requirements
+### CBA Extended Event Handlers (XEH)
 
-- [Community Base Addons (CBA_A3)](https://steamcommunity.com/sharedfiles/filedetails/?id=450814997)
-
-## Supported Mods
-
-CBC_A3 provides compatibility patches for the following mods:
+Turns on CBA's Extended Event Handlers for classes that don't support them out of the box, so scripts and mods that rely on XEH also work on these objects.
 
 - [Breach - Rewrite](https://steamcommunity.com/sharedfiles/filedetails/?id=3283645995)
-- [Redd'n'Tank Vehicles](https://steamcommunity.com/sharedfiles/filedetails/?id=1128145626)
-- [FIR AWS (AirWeaponSystem)](https://steamcommunity.com/sharedfiles/filedetails/?id=366425329)
 - [BWMod](https://steamcommunity.com/sharedfiles/filedetails/?id=1200127537)
 - [Community Factions Project (CFP)](https://steamcommunity.com/sharedfiles/filedetails/?id=1369691841)
-- [Jbad](https://steamcommunity.com/sharedfiles/filedetails/?id=520618345)
+- [FIR AWS (AirWeaponSystem)](https://steamcommunity.com/sharedfiles/filedetails/?id=366425329)
+- [FPV Drone Crocus](https://steamcommunity.com/sharedfiles/filedetails/?id=3045129955)
 - [IFA3 AIO Lite](https://steamcommunity.com/sharedfiles/filedetails/?id=2648308937)
 - [Iron Front ArmA 3: ACE 3 Compatibility patch](https://steamcommunity.com/sharedfiles/filedetails/?id=773759919)
-- [FPV Drone Crocus](https://steamcommunity.com/sharedfiles/filedetails/?id=3045129955)
-- Vanilla Arma 3 + (c)DLCs
+- [Jbad](https://steamcommunity.com/sharedfiles/filedetails/?id=520618345)
+- [Redd'n'Tank Vehicles](https://steamcommunity.com/sharedfiles/filedetails/?id=1128145626)
+- Vanilla Arma 3 and Creator DLCs
 
-Magazine well (magwell) compatibility, each part only active when its mod is loaded:
+### Magazine Wells
 
-- Vanilla Arma 3 (40mm UGL grenades, 150Rnd 5.56mm drums)
-- ACE3 (7.62x51 / 5.56x45 magazines, HuntIR)
-- RHS USAF (XM2010, M4, M14 EBR-RI)
-- HLC (G3 / HK33 / HK53, AWC)
-- CUP (M24)
-- BWA3 (G36 with G36 magazines only, G38, G28 / G27)
-- R3F (HK417M, HK416M, SIG551)
-- JCA standalone weapon mods or JCA - Infantry Arsenal (Gen 4: M4A1 / M4A4 / SR10 / SR25, M16A4, HK433, HK437, SCAR-H / SCAR-L, P226, M9A1, G17, MP5, UMP, MP7, M107, M115A3)
+Hooks weapons and magazines into shared magazine wells, so weapons accept compatible magazines from other mods.
 
-Terrain tweaks, each only active when its map is loaded:
+| Mod | Covered |
+| --- | --- |
+| Vanilla Arma 3 | 40mm UGL grenades, 150Rnd 5.56mm drums |
+| [ACE3](https://steamcommunity.com/sharedfiles/filedetails/?id=463939057) | 7.62x51 / 5.56x45 magazines, HuntIR |
+| [RHS USAF](https://steamcommunity.com/sharedfiles/filedetails/?id=843577117) | XM2010, M4, M14 EBR-RI |
+| [NIArms (HLC)](https://steamcommunity.com/sharedfiles/filedetails/?id=667454606) | G3 / HK33 / HK53, AWC |
+| [CUP Weapons](https://steamcommunity.com/sharedfiles/filedetails/?id=497660133) | M24 |
+| [BWMod](https://steamcommunity.com/sharedfiles/filedetails/?id=1200127537) | G36 (G36 magazines only), G38, G28 / G27 |
+| [R3F Armes](https://steamcommunity.com/sharedfiles/filedetails/?id=941128190) | HK417M, HK416M, SIG551 |
+| JCA standalone weapons or [JCA - Infantry Arsenal](https://steamcommunity.com/sharedfiles/filedetails/?id=3333302397) | Gen 4 (M4A1 / M4A4 / SR10 / SR25), M16A4, HK433, HK437, SCAR-H / SCAR-L, P226, M9A1, G17, MP5, UMP, MP7, M107, M115A3 |
 
-- [Hellanmaa Winter](https://steamcommunity.com/sharedfiles/filedetails/?id=1291778160) - Converts rain to snow
-- [Ihantala Winter](https://steamcommunity.com/sharedfiles/filedetails/?id=1494127420) - Converts rain to snow
-- [Summa Winter](https://steamcommunity.com/sharedfiles/filedetails/?id=1598087521) - Converts rain to snow
+### Terrain Tweaks
+
+| Terrain | Tweak |
+| --- | --- |
+| [Hellanmaa Winter](https://steamcommunity.com/sharedfiles/filedetails/?id=1291778160) | Rain falls as snow |
+| [Ihantala Winter](https://steamcommunity.com/sharedfiles/filedetails/?id=1494127420) | Rain falls as snow |
+| [Summa Winter](https://steamcommunity.com/sharedfiles/filedetails/?id=1598087521) | Rain falls as snow |
+
+### Planned
+
+- CBA Joint Rails compatibility
 
 ## Installation
 
-Install CBC_A3 through the Steam Workshop or your preferred Arma 3 mod manager.
+1. Subscribe to [CBA_A3](https://steamcommunity.com/sharedfiles/filedetails/?id=450814997) (required).
+2. Subscribe to [CBC_A3 on the Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3794706674), or install it with your preferred Arma 3 mod manager.
+3. Load both alongside your other mods. Load order doesn't matter.
 
 ## Support
 
 - [Report an issue](https://github.com/CVO-Org/CBC_A3/issues)
-- [Join the Discord](https://discord.gg/V37bRTnbb8/)
+- [Join the Discord](https://discord.gg/V37bRTnbb8/) for support and updates across our modding projects
+
+## Contributing
+
+Pull requests are welcome. Feel free to add yourself to [CONTRIBUTORS.md](CONTRIBUTORS.md) when you open one.
 
 ## License
 
