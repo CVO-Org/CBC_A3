@@ -14,7 +14,9 @@ Join the Discord for support and updates across our modding projects.
 - [Steam Workshop: Community Base Compats](https://steamcommunity.com/sharedfiles/filedetails/?id=3794706674)
 
 Community Base Compats (CBC_A3) is an Arma 3 compatibility mod for Community Base Addons (CBA_A3).
-It provides compatibility patches that help supported community mods work alongside CBA_A3. Currently it fixes CBAs Extended Event Handlers (XEH) for many mods and adds magazine well (magwell) compatibility for several weapon mods. More things like CBA Joint Rails are planned.
+It provides compatibility patches that help supported community mods work alongside CBA_A3. Currently it fixes CBAs Extended Event Handlers (XEH) for many mods and adds magazine well (magwell) compatibility for several weapon mods. It also includes small tweaks for some terrains, such as turning rain into snow on winter maps. More things like CBA Joint Rails are planned.
+
+Community Base Fixes (CBF_A3) has been merged into CBC_A3. If you used CBF_A3, switch to CBC_A3.
 
 ## Requirements
 
@@ -45,6 +47,12 @@ Magazine well (magwell) compatibility, each part only active when its mod is loa
 - BWA3 (G36 with G36 magazines only, G38, G28 / G27)
 - R3F (HK417M, HK416M, SIG551)
 - JCA standalone weapon mods or JCA - Infantry Arsenal (Gen 4: M4A1 / M4A4 / SR10 / SR25, M16A4, HK433, HK437, SCAR-H / SCAR-L, P226, M9A1, G17, MP5, UMP, MP7, M107, M115A3)
+
+Terrain tweaks, each only active when its map is loaded:
+
+- [Hellanmaa Winter](https://steamcommunity.com/sharedfiles/filedetails/?id=1291778160) - Converts rain to snow
+- [Ihantala Winter](https://steamcommunity.com/sharedfiles/filedetails/?id=1494127420) - Converts rain to snow
+- [Summa Winter](https://steamcommunity.com/sharedfiles/filedetails/?id=1598087521) - Converts rain to snow
 
 ## Installation
 
