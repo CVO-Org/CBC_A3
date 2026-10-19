@@ -173,3 +173,12 @@ extends = "default"
 workshop = [
     "3333302397" #JCA - Infantry Arsenal
 ]
+
+[winter]
+extends = "default"
+workshop = [
+    "583496184", #CUP Terrains - Core
+    "1291778160", #Hellanmaa Winter
+    "1494127420", #Ihantala Winter
+    "1598087521" #Summa Winter
+]
