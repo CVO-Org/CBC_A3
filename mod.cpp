@@ -13,7 +13,7 @@ logoOver        = "img\logo_ca.paa";                                            
 
 tooltip         = "Community Base Compats";
 tooltipOwned    = "Community Base Compats Owned";                                                                                                        // Tool tip displayed when the mouse is left over, in the main menu
-overview        = "Community Base Compats (CBC_A3) is a community maintained collection of compatibility patches and small fixes for Arma 3 mods: CBA Extended Event Handler (XEH) fixes, magazine well compatibility and terrain tweaks. It also replaces Community Base Fixes (CBF_A3).";
+overview        = "Community Base Compats (CBC_A3) is a community maintained collection of compatibility patches and small fixes for Arma 3 mods: CBA Extended Event Handler (XEH) fixes, magazine well compatibility and terrain tweaks.";
 description     = "Bugtracker: https://github.com/CVO-Org/CBC_A3/issues";
 action          = "https://discord.gg/V37bRTnbb8/";                                                                                                // Website URL, that can accessed from the expansions menu 
 actionName      = "Discord";                                                                                                                        // label of button/tooltip in extension menu
