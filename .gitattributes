@@ -1,0 +1,45 @@
+# Normalize line endings: store LF in the repo, check out per platform
+* text=auto
+
+# Source and config
+*.sqf    text
+*.sqm    text
+*.hpp    text
+*.cpp    text
+*.h      text
+*.inc    text
+*.ext    text
+*.xml    text
+*.md     text
+*.txt    text
+*.toml   text
+*.yml    text
+*.yaml   text
+*.json   text
+*.rhai   text
+*.py     text
+*.svg    text
+$PBOPREFIX$ text
+
+# Windows scripts
+*.ps1    text eol=crlf
+*.bat    text eol=crlf
+*.cmd    text eol=crlf
+
+# Arma and other binaries
+*.paa    binary
+*.p3d    binary
+*.rtm    binary
+*.wrp    binary
+*.ogg    binary
+*.wss    binary
+*.wav    binary
+*.lip    binary
+*.bin    binary
+*.pbo    binary
+*.bikey  binary
+*.bisign binary
+*.png    binary
+*.jpg    binary
+*.jpeg   binary
+*.zip    binary
