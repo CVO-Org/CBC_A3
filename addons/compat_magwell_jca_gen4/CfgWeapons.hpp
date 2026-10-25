@@ -32,16 +32,11 @@ class CfgWeapons {
             "CBA_556x45_STANAG_2D_XL"
         };
     };
+    // CBA_762x51_SR25 is deprecated in CBA in favour of CBA_762x51_AR10.
     class JCA_arifle_SR10_base_F: Rifle_Base_F {
-        magazineWell[] += {
-            "CBA_762x51_SR25",
-            "CBA_762x51_AR10"
-        };
+        magazineWell[] += {"CBA_762x51_AR10"};
     };
     class JCA_arifle_SR25_base_F: Rifle_Base_F {
-        magazineWell[] += {
-            "CBA_762x51_SR25",
-            "CBA_762x51_AR10"
-        };
+        magazineWell[] += {"CBA_762x51_AR10"};
     };
 };

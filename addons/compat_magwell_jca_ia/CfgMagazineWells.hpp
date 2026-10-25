@@ -25,9 +25,6 @@ class CfgMagazineWells {
     };
 
     // 7.62x51 - SR-25/AR-10-pattern magazines
-    class CBA_762x51_SR25 {
-        JCA_Magazines_Stanag_762x51[] = {JCA_GEN4_MAGS_762};
-    };
     class CBA_762x51_AR10 {
         JCA_Magazines_Stanag_762x51[] = {JCA_GEN4_MAGS_762};
     };

@@ -6,7 +6,7 @@ class CfgWeapons {
     class rhs_weap_XM2010_Base_F: Rifle_Base_F {
         magazineWell[] += {
             "M2010_300wm",
-            "CBA_300WM_AI"
+            "CBA_300WM_AICS"
         };
     };
     class rhs_weap_m4_Base: arifle_MX_Base_F {

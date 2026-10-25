@@ -57,18 +57,12 @@ class CfgWeapons {
         };
     };
 
-    // 7.62x51
+    // 7.62x51 (CBA_762x51_SR25 is deprecated in CBA in favour of CBA_762x51_AR10)
     class JCA_arifle_SR10_base_F: Rifle_Base_F {
-        magazineWell[] += {
-            "CBA_762x51_SR25",
-            "CBA_762x51_AR10"
-        };
+        magazineWell[] += {"CBA_762x51_AR10"};
     };
     class JCA_arifle_SR25_base_F: Rifle_Base_F {
-        magazineWell[] += {
-            "CBA_762x51_SR25",
-            "CBA_762x51_AR10"
-        };
+        magazineWell[] += {"CBA_762x51_AR10"};
     };
     class JCA_arifle_SCAR_H_base_F: Rifle_Base_F {
         magazineWell[] += {
