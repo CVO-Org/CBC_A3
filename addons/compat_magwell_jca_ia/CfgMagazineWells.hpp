@@ -14,7 +14,7 @@
 #include "\x\cbc\addons\compat_magwell_jca_ump\magazines.hpp"
 
 class CfgMagazineWells {
-    // 5.56x45 - Gen 4 PMAG, HK433 EMAG (M16A4 and SCAR-L only use vanilla magazines)
+    // 5.56x45 STANAG-pattern magazines
     class CBA_556x45_STANAG {
         JCA_Magazines[] = {JCA_GEN4_MAGS_556};
         JCA_HK433_Magazines[] = {JCA_HK433_MAGS_556};
@@ -24,21 +24,14 @@ class CfgMagazineWells {
         JCA_HK433_Magazines_Stanag_556x45[] = {JCA_HK433_MAGS_556};
     };
 
-    // 7.62x51 - Gen 4 SR PMAG / SMAG, SCAR-H
-    class Stanag_762x51 {
-        JCA_Magazines_Stanag_762x51[] = {JCA_GEN4_MAGS_762};
-        JCA_SCAR_Magazines_Stanag_762x51[] = {JCA_SCAR_MAGS_762};
-    };
-    class Stanag_762x51_big {
-        JCA_Magazines_Stanag_762x51[] = {JCA_GEN4_MAGS_762};
-        JCA_SCAR_Magazines_Stanag_762x51[] = {JCA_SCAR_MAGS_762};
-    };
+    // 7.62x51 - SR-25/AR-10-pattern magazines
     class CBA_762x51_SR25 {
         JCA_Magazines_Stanag_762x51[] = {JCA_GEN4_MAGS_762};
     };
     class CBA_762x51_AR10 {
         JCA_Magazines_Stanag_762x51[] = {JCA_GEN4_MAGS_762};
     };
+    // SCAR-H magazines use a distinct pattern from SR-25/AR-10 magazines.
     class CBA_762x51_SCAR {
         JCA_SCAR_Magazines_Stanag_762x51[] = {JCA_SCAR_MAGS_762};
     };
