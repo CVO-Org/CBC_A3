@@ -17,17 +17,8 @@ class CfgWeapons {
             "CBA_556x45_STANAG_2D_XL"
         };
     };
-    // The G27 and G28 Patrol inherit from the G28.
+    // The G28 is an HK417; the G27 and G28 Patrol inherit from it.
     class BWA3_G28: Rifle_Long_Base_F {
-        magazineWell[] += {
-            "Stanag_762x51_big",
-            "CBA_762x51_M14",
-            "CBA_762x51_HK417",
-            "CBA_762x51_SR25",
-            "CBA_762x51_SCAR",
-            "CBA_762x51_FAL",
-            "CBA_762x51_G3",
-            "CBA_762x51_SIGAMT"
-        };
+        magazineWell[] += {"CBA_762x51_HK417"};
     };
 };
