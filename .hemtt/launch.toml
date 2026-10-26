@@ -1,7 +1,7 @@
 [default]
 workshop = [
-    "450814997", #CBA_A3
-    "3499977893" #ADT
+    "450814997",  #CBA_A3
+    "3499977893", #ADT
 ]
 
 [breach]
@@ -9,176 +9,196 @@ extends = "default"
 workshop = [
     "3283645995", #Breach - Rewrite
     "3283642267", #Speshal Core
-    "463939057" #ACE3
+    "463939057",  #ACE3
 ]
 
 [rnt]
 extends = "default"
 workshop = [
-    "1128145626" #Redd'n'Tank Vehicles
+    "1128145626", #Redd'n'Tank Vehicles
 ]
 
 [fir_aws]
 extends = "default"
 workshop = [
-    "366425329" #FIR AWS (AirWeaponSystem)
+    "366425329", #FIR AWS (AirWeaponSystem)
 ]
 
 [bwmod]
 extends = "default"
 workshop = [
-    "1200127537" #BWMod
+    "1200127537", #BWMod
 ]
 
 [cfp]
 extends = "default"
 workshop = [
     "1369691841", #Community Factions Project (CFP)
-    "497661914", #CUP Units
-    "541888371", #CUP Vehicles
-    "497660133" #CUP Weapons
+    "497661914",  #CUP Units
+    "541888371",  #CUP Vehicles
+    "497660133",  #CUP Weapons
 ]
 
 [jbad]
 extends = "default"
 workshop = [
-    "520618345" #Jbad
+    "520618345", #Jbad
 ]
 
 [magwell_ace]
 extends = "default"
 workshop = [
-    "463939057" #ACE3
+    "463939057", #ACE3
 ]
 
 [magwell_rhs]
 extends = "default"
 workshop = [
     "843425103", #RHS AFRF
-    "843577117" #RHS USAF
+    "843577117", #RHS USAF
 ]
 
 [magwell_hlc_g3]
 extends = "default"
 workshop = [
     "667454606", #NIArms Core
-    "667375637" #NIArms G3 Rifles
+    "667375637", #NIArms G3 Rifles
 ]
 
 [magwell_hlc_awc]
 extends = "default"
 workshop = [
     "667454606", #NIArms Core
-    "509730197" #NIArms AWM Rifles
+    "509730197", #NIArms AWM Rifles
 ]
 
 [magwell_cup]
 extends = "default"
 workshop = [
-    "497660133" #CUP Weapons
+    "497660133", #CUP Weapons
 ]
 
 [magwell_r3f]
 extends = "default"
 workshop = [
-    "941128190" #R3F Armes
+    "941128190", #R3F Armes
 ]
 
 [magwell_bwa3]
 extends = "default"
 workshop = [
-    "1200127537" #BWMod
+    "1200127537", #BWMod
 ]
 
 [magwell_jca_gen4]
 extends = "default"
 workshop = [
-    "3149544080" #JCA - Gen 4 Weapon Family
+    "3149544080", #JCA - Gen 4 Weapon Family
 ]
 
 [magwell_jca_m16a4]
 extends = "default"
 workshop = [
-    "3343727154" #JCA - M16A4
+    "3343727154", #JCA - M16A4
 ]
 
 [magwell_jca_hk433]
 extends = "default"
 workshop = [
-    "3593321509" #JCA - HK433
+    "3593321509", #JCA - HK433
 ]
 
 [magwell_jca_hk437]
 extends = "default"
 workshop = [
-    "3625840163" #JCA - HK437
+    "3625840163", #JCA - HK437
 ]
 
 [magwell_jca_scar]
 extends = "default"
 workshop = [
-    "3766052768" #JCA - SCAR
+    "3766052768", #JCA - SCAR
 ]
 
 [magwell_jca_p226]
 extends = "default"
 workshop = [
-    "3328185289" #JCA - P226
+    "3328185289", #JCA - P226
 ]
 
 [magwell_jca_m9a1]
 extends = "default"
 workshop = [
-    "3457335790" #JCA - M9A1
+    "3457335790", #JCA - M9A1
 ]
 
 [magwell_jca_g17]
 extends = "default"
 workshop = [
-    "3739753424" #JCA - Glock 17
+    "3739753424", #JCA - Glock 17
 ]
 
 [magwell_jca_mp5]
 extends = "default"
 workshop = [
-    "3302425224" #JCA - MP5A5
+    "3302425224", #JCA - MP5A5
 ]
 
 [magwell_jca_ump]
 extends = "default"
 workshop = [
-    "3397288027" #JCA - UMP45
+    "3397288027", #JCA - UMP45
 ]
 
 [magwell_jca_mp7]
 extends = "default"
 workshop = [
-    "3798659916" #JCA - MP7A2
+    "3798659916", #JCA - MP7A2
 ]
 
 [magwell_jca_m107]
 extends = "default"
 workshop = [
-    "3559739995" #JCA - M107A1
+    "3559739995", #JCA - M107A1
 ]
 
 [magwell_jca_awm]
 extends = "default"
 workshop = [
-    "3148699851" #JCA - M115A3
+    "3148699851", #JCA - M115A3
 ]
 
 [magwell_jca_ia]
 extends = "default"
 workshop = [
-    "3333302397" #JCA - Infantry Arsenal
+    "3333302397", #JCA - Infantry Arsenal
 ]
 
 [winter]
 extends = "default"
 workshop = [
-    "583496184", #CUP Terrains - Core
+    "583496184",  #CUP Terrains - Core
     "1291778160", #Hellanmaa Winter
     "1494127420", #Ihantala Winter
-    "1598087521" #Summa Winter
+    "1598087521", #Summa Winter
+]
+
+[frag_jca_ia]
+extends = "default"
+workshop = [
+    "463939057",  #ACE3
+    "3333302397", #JCA - Infantry Arsenal
+]
+
+[frag_jca_hf]
+extends = "default"
+workshop = [
+    "463939057",  #ACE3
+    "2991684121", #JCA - Hand Flares
+]
+
+[frag_jca_hfia]
+extends = "frag_jca_hf"
+workshop = [
+    "3333302397", #JCA - Infantry Arsenal
 ]
