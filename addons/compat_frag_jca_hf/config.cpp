@@ -17,9 +17,6 @@ class CfgPatches {
         // If any requiredAddons[] entry is missing, the entire config is silently ignored (RPT only) - useful for a compat mod (since Arma 3 2.14)
         // The standalone compat_magwell_jca_* addons skip themselves when Weapons_F_JCA_IA is loaded, so only this one applies then.
         skipWhenMissingDependencies = 1;
-        skipWhenAnyAddonPresent[] = {
-            "Weapons_F_JCA_IA"
-        };
         VERSION_CONFIG;
     };
 };
