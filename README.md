@@ -39,6 +39,14 @@ Hooks weapons and magazines into shared magazine wells, so weapons accept compat
 | [R3F Armes](https://steamcommunity.com/sharedfiles/filedetails/?id=941128190) | HK417M, HK416M, SIG551 |
 | JCA standalone weapons or [JCA - Infantry Arsenal](https://steamcommunity.com/sharedfiles/filedetails/?id=3333302397) | Gen 4 (M4A1 / M4A4 / SR10 / SR25), M16A4, HK433, HK437, SCAR-H / SCAR-L, P226, M9A1, G17, MP5, UMP, MP7, M107, M115A3 |
 
+### ACE Fragmentation
+
+Turns off ACE fragmentation for items that shouldn't throw shrapnel. Only loads when ACE3 is loaded.
+
+| Mod | Covered |
+| --- | --- |
+| [JCA - Hand Flares](https://steamcommunity.com/sharedfiles/filedetails/?id=2991684121) or [JCA - Infantry Arsenal](https://steamcommunity.com/sharedfiles/filedetails/?id=3333302397) | Hand flares and signal flares |
+
 ### Terrain Tweaks
 
 | Terrain | Tweak |

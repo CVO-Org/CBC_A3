@@ -71,6 +71,21 @@ Hooks weapons and magazines into shared magazine wells, so weapons accept compat
 [/tr]
 [/table]
 
+[h2]ACE Fragmentation[/h2]
+
+Turns off ACE fragmentation for items that shouldn't throw shrapnel. Only loads when ACE3 is loaded.
+
+[table]
+[tr]
+[th]Mod[/th]
+[th]Covered[/th]
+[/tr]
+[tr]
+[td][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2991684121]JCA - Hand Flares[/url] or [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3333302397]JCA - Infantry Arsenal[/url][/td]
+[td]Hand flares and signal flares[/td]
+[/tr]
+[/table]
+
 [h2]Terrain Tweaks[/h2]
 
 [table]
