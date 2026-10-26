@@ -1,5 +1,7 @@
 # Frag - JCA Hand Flares
 
-ACE frag compatibility for JCA hand flares, disabling fragmentation from the flare grenades. Covers all grenades inheriting from `JCA_GrenadeAmmo_HandFlare_Base`, so mods adding additional flares built on top of [JCA - Hand Flares](https://steamcommunity.com/sharedfiles/filedetails/?id=2991684121) and, by extension, [JCA - Infantry Arsenal](https://steamcommunity.com/sharedfiles/filedetails/?id=3333302397), also have disabled fragmentation. Both mods are supported currently.
+Disables ACE fragmentation for the JCA hand flares and signal flares. The change is made on `JCA_GrenadeAmmo_HandFlare_Base`, so every flare inheriting from it is covered, including flares from other mods built on top of it.
+
+Works with both [JCA - Hand Flares](https://steamcommunity.com/sharedfiles/filedetails/?id=2991684121) and [JCA - Infantry Arsenal](https://steamcommunity.com/sharedfiles/filedetails/?id=3333302397), which bundles the same flares. Only loads when ACE3 is loaded.
 
 Maintainer: Sky
