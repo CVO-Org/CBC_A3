@@ -72,6 +72,12 @@ workshop = [
     "509730197", #NIArms AWM Rifles
 ]
 
+[hlc_aio]
+extends = "default"
+workshop = [
+    "2595680138", #NIArms All In One
+]
+
 [magwell_cup]
 extends = "default"
 workshop = [
