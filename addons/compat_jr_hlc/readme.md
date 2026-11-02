@@ -4,6 +4,8 @@ Adds HLC (NIArms) muzzle devices and G3 / M14 optics to the CBA Joint Rails slot
 
 Only items that fit the slot's calibre are listed. The source's 5.56 suppressor on 7.62 slots, 10mm suppressor on .45, MAG58 brake, 300 BLK and SCAR-H muzzle devices and KX3 comp on 7.62 are left out.
 
-Attachment lists only, no weapon changes. Based on Weapons Balance - NIArms by johnb432 (MIT).
+Attachment lists only, no weapon changes.
+
+Based on [Weapons-Balance-NIArms](https://github.com/johnb432/Weapons-Balance-NIArms) by johnb432, MIT License, Copyright (c) 2021 johnb432.
 
 Maintainer: Andx

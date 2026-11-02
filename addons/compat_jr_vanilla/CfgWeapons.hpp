@@ -1,5 +1,5 @@
 // CBA Joint Rails has no entry for the Contact DLC MSBS, so it only has the vanilla optic and pointer slots.
-// Based on the GSRI gear patch (MIT), slots only.
+// Based on mods-gear by GSRI (https://github.com/team-gsri/mods-gear), MIT License, Copyright (c) 2020 GSRI. Slots only.
 class asdg_OpticRail1913;
 class asdg_FrontSideRail;
 

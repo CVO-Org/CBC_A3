@@ -1,5 +1,6 @@
 // HLC (NIArms) muzzle devices and optics on the CBA Joint Rails slots.
-// Based on Weapons Balance - NIArms by johnb432 (MIT), attachment lists only.
+// Based on Weapons-Balance-NIArms by johnb432 (https://github.com/johnb432/Weapons-Balance-NIArms), MIT License,
+// Copyright (c) 2021 johnb432. Attachment lists only.
 // Only items that physically fit the slot's calibre are listed: no 5.56 suppressors on 7.62 slots, no 10mm
 // suppressors on .45, and no machine gun or 300 BLK specific muzzle devices on rifles.
 
