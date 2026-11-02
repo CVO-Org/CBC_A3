@@ -33,7 +33,7 @@ Hooks weapons and magazines into shared magazine wells, so weapons accept compat
 | Vanilla Arma 3 | 40mm UGL grenades, 150Rnd 5.56mm drums |
 | [ACE3](https://steamcommunity.com/sharedfiles/filedetails/?id=463939057) | 7.62x51 / 5.56x45 magazines, HuntIR |
 | [RHS USAF](https://steamcommunity.com/sharedfiles/filedetails/?id=843577117) | XM2010, M4, M14 EBR-RI |
-| [NIArms (HLC)](https://steamcommunity.com/sharedfiles/filedetails/?id=667454606) | G3 / HK33 / HK53, AWC |
+| [NIArms (HLC)](https://steamcommunity.com/sharedfiles/filedetails/?id=667454606) | G3 / HK33 / HK53, M14, FAL, SCAR-H, AWC, STANAG 5.56 |
 | [CUP Weapons](https://steamcommunity.com/sharedfiles/filedetails/?id=497660133) | M24 |
 | [BWMod](https://steamcommunity.com/sharedfiles/filedetails/?id=1200127537) | G36 (G36 magazines only), G38, G28 / G27 |
 | [R3F Armes](https://steamcommunity.com/sharedfiles/filedetails/?id=941128190) | HK417M, HK416M, SIG551 |
