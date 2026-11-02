@@ -49,8 +49,8 @@ class UK3CB_MuzzleSlot_762_M14: asdg_MuzzleSlot_762 {
     };
 };
 
-class asdg_MuzzleSlot;
-class asdg_MuzzleSlot_9MM_SMG: asdg_MuzzleSlot {
+class asdg_MuzzleSlot_9MM_SMG;
+class UK3CB_MuzzleSlot_9MM_MP5: asdg_MuzzleSlot_9MM_SMG {
     class compatibleItems {
         hlc_muzzle_agendasix = 1;
     };
