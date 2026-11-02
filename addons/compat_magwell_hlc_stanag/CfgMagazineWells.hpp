@@ -36,11 +36,7 @@ class CfgMagazineWells {
             "hlc_30rnd_556x45_M_EMAG",
             "hlc_30rnd_556x45_t_EMAG",
             "hlc_30rnd_556x45_MDim_EMAG",
-            "hlc_30rnd_556x45_TDim_EMAG",
-            "hlc_50rnd_556x45_SOST",
-            "hlc_50rnd_556x45_SPR",
-            "hlc_50rnd_556x45_M",
-            "hlc_50rnd_556x45_MDim"
+            "hlc_30rnd_556x45_TDim_EMAG"
         };
     };
     class CBA_556x45_STANAG_L {

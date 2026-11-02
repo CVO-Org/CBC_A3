@@ -1,7 +1,7 @@
 // Based on Weapons-Balance-NIArms by johnb432 (https://github.com/johnb432/Weapons-Balance-NIArms), MIT License,
 // Copyright (c) 2021 johnb432. Magazine lists only.
 class CfgMagazineWells {
-    class M14_762x51 {
+    class CBA_762x51_M14 {
         HLC_Magazines[] = {
             "hlc_20Rnd_762x51_B_M14",
             "hlc_20Rnd_762x51_Mdim_M14",

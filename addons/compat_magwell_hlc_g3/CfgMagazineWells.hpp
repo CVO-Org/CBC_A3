@@ -27,9 +27,6 @@ class CfgMagazineWells {
             "hlc_20Rnd_762x51_b_amt"
         };
     };
-    class CBA_762x51_M14 {
-        HLC_Magazines[] = {"hlc_50Rnd_762x51_B_M14"};
-    };
     class Stanag_556x45 {
         HLC_Magazines_Stanag_556x45[] = {
             "hlc_30rnd_556x45_EPR",

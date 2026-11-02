@@ -3,9 +3,6 @@
 class CfgMagazineWells {
     class CBA_762x51_SCAR {
         HLC_Magazines[] = {
-            "hlc_20rnd_762x51_B_SCAR",
-            "hlc_20rnd_762x51_T_SCAR",
-            "hlc_20rnd_762x51_S_SCAR",
             "hlc_20rnd_762x51_MDIM_SCARH",
             "hlc_20Rnd_762x51_MDIM_SCARH_camo",
             "hlc_20Rnd_762x51_MDIM_SCARH_MW2",
