@@ -6,7 +6,7 @@ Adds HLC (NIArms) muzzle devices to the CBA Joint Rails slots `UK3CB_MuzzleSlot_
 
 HLC optics and the Agenda Six are not added, because 3CB Factions ships its own copies of them.
 
-Only items that fit the slot's calibre are listed. The source's 5.56 suppressor on 7.62 slots, 10mm suppressor on .45, MAG58 brake, 300 BLK and SCAR-H muzzle devices and KX3 comp on 7.62 are left out.
+Only items that fit the slot's calibre are listed. The source's 5.56 suppressor on 7.62 slots, 10mm suppressor on .45, MAG58 brake, 300 BLK and SCAR-H muzzle devices and KX3 comp on 7.62 are left out. The G3 and M14 slots (also used by the 3CB G3 variants and AR-10) only get the AAC SDN-6, Brevis and Thunder Chicken, because the other brakes and compensators do not fit those 3CB models.
 
 Attachment lists only, no weapon changes.
 
