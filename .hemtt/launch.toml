@@ -81,7 +81,7 @@ workshop = [
 [jr_hlc]
 extends = "default"
 workshop = [
-    "1208517358", #NIArms All In One
+    "2595680138", #NIArms All In One
     "1673456286", #3CB Factions
     "843425103",  #RHS AFRF
     "843577117",  #RHS USAF
