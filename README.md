@@ -54,7 +54,7 @@ Adds attachments and weapons to [CBA Joint Rails](https://github.com/CBATeam/CBA
 | Mod | Covered |
 | --- | --- |
 | Vanilla Arma 3 (Contact DLC) | MSBS optic and pointer rails |
-| [NIArms (HLC)](https://steamcommunity.com/sharedfiles/filedetails/?id=667454606) | Muzzle devices (HK33, G3, M14, MP5), G3 and M14 optics |
+| [NIArms (HLC)](https://steamcommunity.com/sharedfiles/filedetails/?id=1208517358) with [3CB Factions](https://steamcommunity.com/sharedfiles/filedetails/?id=1673456286) | NIArms muzzle devices (HK33, G3, M14, MP5) and G3 / M14 optics on 3CB Factions weapons |
 
 
 ### Terrain Tweaks

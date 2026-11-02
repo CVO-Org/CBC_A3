@@ -100,8 +100,8 @@ Adds attachments and weapons to [url=https://github.com/CBATeam/CBA_A3/tree/mast
 [td]MSBS optic and pointer rails[/td]
 [/tr]
 [tr]
-[td][url=https://steamcommunity.com/sharedfiles/filedetails/?id=667454606]NIArms (HLC)[/url][/td]
-[td]Muzzle devices (HK33, G3, M14, MP5), G3 and M14 optics[/td]
+[td][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1208517358]NIArms (HLC)[/url] with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1673456286]3CB Factions[/url][/td]
+[td]NIArms muzzle devices (HK33, G3, M14, MP5) and G3 / M14 optics on 3CB Factions weapons[/td]
 [/tr]
 [/table]
 

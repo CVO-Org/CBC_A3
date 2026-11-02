@@ -81,8 +81,11 @@ workshop = [
 [jr_hlc]
 extends = "default"
 workshop = [
-    "667454606", #NIArms Core
-    "667375637", #NIArms G3 Rifles
+    "1208517358", #NIArms All In One
+    "1673456286", #3CB Factions
+    "843425103",  #RHS AFRF
+    "843577117",  #RHS USAF
+    "843593391",  #RHS GREF
 ]
 
 [magwell_r3f]
