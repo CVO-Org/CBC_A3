@@ -47,6 +47,16 @@ Turns off ACE fragmentation for items that shouldn't throw shrapnel. Only loads 
 | --- | --- |
 | [JCA - Hand Flares](https://steamcommunity.com/sharedfiles/filedetails/?id=2991684121) or [JCA - Infantry Arsenal](https://steamcommunity.com/sharedfiles/filedetails/?id=3333302397) | Hand flares and signal flares |
 
+### CBA Joint Rails
+
+Adds attachments and weapons to [CBA Joint Rails](https://github.com/CBATeam/CBA_A3/tree/master/addons/jr) slots, so they accept the attachments you'd expect from the real weapons.
+
+| Mod | Covered |
+| --- | --- |
+| Vanilla Arma 3 (Contact DLC) | MSBS optic and pointer rails |
+| [NIArms (HLC)](https://steamcommunity.com/sharedfiles/filedetails/?id=667454606) | Muzzle devices (HK33, G3, M14, MP5), G3 and M14 optics |
+
+
 ### Terrain Tweaks
 
 | Terrain | Tweak |
@@ -57,7 +67,7 @@ Turns off ACE fragmentation for items that shouldn't throw shrapnel. Only loads 
 
 ### Planned
 
-- CBA Joint Rails compatibility
+- More CBA Joint Rails compatibility
 
 ## Installation
 
