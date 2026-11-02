@@ -78,6 +78,16 @@ workshop = [
     "497660133", #CUP Weapons
 ]
 
+[jr_hlc]
+extends = "default"
+workshop = [
+    "2595680138", #NIArms All In One
+    "1673456286", #3CB Factions
+    "843425103",  #RHS AFRF
+    "843577117",  #RHS USAF
+    "843593391",  #RHS GREF
+]
+
 [magwell_r3f]
 extends = "default"
 workshop = [
