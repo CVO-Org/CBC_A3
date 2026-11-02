@@ -9,7 +9,6 @@ class CfgWeapons {
     class hlc_rifle_ACR68_SBR_black;
     class hlc_rifle_ACR68_Carb_black;
     class hlc_rifle_ACR68_MID_black;
-    class CBA_MiscItem;
 
     class hlc_rifle_ACR_SBR_cliffhanger: hlc_rifle_ACR_SBR_tan {
         displayName = "Remington ACR-E (Compact/'Cliffhanger')";
@@ -76,29 +75,5 @@ class CfgWeapons {
     };
     class hlc_rifle_ACR68_GL_mid_tan: hlc_rifle_ACR68_GL_mid_black {
         displayName = "Remington ACR-E 6.8mm (Mid/GL/Tan)";
-    };
-    class hlc_barrel_compact_ACR_556: CBA_MiscItem {
-        displayName = "ACR Barrel (Compact/5.56)";
-    };
-    class hlc_barrel_carbine_ACR_556: CBA_MiscItem {
-        displayName = "ACR Barrel (Carbine/5.56)";
-    };
-    class hlc_barrel_mid_ACR_556: CBA_MiscItem {
-        displayName = "ACR Barrel (Mid/5.56)";
-    };
-    class hlc_barrel_full_ACR_556: CBA_MiscItem {
-        displayName = "ACR Barrel (Long/5.56)";
-    };
-    class hlc_barrel_compact_ACR_68: CBA_MiscItem {
-        displayName = "ACR Barrel (Compact/6.8)";
-    };
-    class hlc_barrel_carbine_ACR_68: CBA_MiscItem {
-        displayName = "ACR Barrel (Carbine/6.8)";
-    };
-    class hlc_barrel_mid_ACR_68: CBA_MiscItem {
-        displayName = "ACR Barrel (Mid/6.8)";
-    };
-    class hlc_barrel_full_ACR_68: CBA_MiscItem {
-        displayName = "ACR Barrel (Long/6.8)";
     };
 };

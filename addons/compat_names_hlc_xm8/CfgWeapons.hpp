@@ -60,9 +60,6 @@ class CfgWeapons {
     class HLC_Rifle_XM8_MWSF_Carbine: HLC_rifle_XM8_Carbine {
         displayName = "XM8 MWSF (Carbine)";
     };
-    class HLC_rifle_XM8_MWSF_Carbine_Fish: HLC_Rifle_XM8_MWSF_Carbine {
-        displayName = "XM8 MWSF (Carbine/Bass)";
-    };
     class HLC_rifle_XM8_MWSF_Carbine_Green: HLC_Rifle_XM8_MWSF_Carbine {
         displayName = "XM8 MWSF (Carbine/Green)";
     };
@@ -110,9 +107,6 @@ class CfgWeapons {
     };
     class HLC_Rifle_XM8_Proto_Carbine: HLC_rifle_XM8_Carbine {
         displayName = "XM8 Prototype (Carbine)";
-    };
-    class HLC_rifle_XM8_Proto_Carbine_Fish: HLC_Rifle_XM8_Proto_Carbine {
-        displayName = "XM8 Prototype (Carbine/Bass)";
     };
     class HLC_rifle_XM8_Proto_Carbine_Green: HLC_Rifle_XM8_Proto_Carbine {
         displayName = "XM8 Prototype (Carbine/Green)";

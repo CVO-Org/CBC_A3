@@ -10,10 +10,4 @@ class CfgWeapons {
     class hlc_rifle_C2A1: hlc_fal_base {
         displayName = "C2A1";
     };
-    class hlc_rifle_FAL5061: hlc_fal_base {
-        displayName = "FN FAL 50.62";
-    };
-    class hlc_rifle_FAL5061Rail: hlc_fal_base {
-        displayName = "FN FAL 50.62 (RIS)";
-    };
 };

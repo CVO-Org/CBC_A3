@@ -2,28 +2,17 @@
 // Copyright (c) 2021 johnb432. Display names only.
 class CfgWeapons {
     class hlc_lmg_minimipara;
+    class hlc_lmg_minimi_railed;
     class bipod_01_F_snd;
 
     class hlc_lmg_minimipara_railed: hlc_lmg_minimipara {
-        displayName = "FN Minimi Para (Short/Rail)";
-    };
-    class hlc_lmg_minimi_railed: hlc_lmg_minimipara {
-        displayName = "FN Minimi (Long/Rail)";
-    };
-    class hlc_lmg_minimipara_long_railed: hlc_lmg_minimipara {
-        displayName = "FN Minimi Para (Long/Rail)";
+        displayName = "FN Minimi Para (Short/RIS)";
     };
     class hlc_lmg_m249para: hlc_lmg_minimipara {
         displayName = "M249E2 (Short/Para)";
     };
-    class hlc_m249_pip1: hlc_lmg_minimi_railed {
-        displayName = "M249 PIP (Long/Rail)";
-    };
-    class hlc_m249_pip2: hlc_lmg_minimi_railed {
-        displayName = "M249E2 (Short/Rail)";
-    };
     class hlc_m249_pip3: hlc_lmg_minimi_railed {
-        displayName = "M249 PIP (Short/Savit/Rail)";
+        displayName = "M249 PIP (Short/Savit/RIS)";
     };
     class hlc_m249_pip4: hlc_lmg_minimi_railed {
         displayName = "M249 PIP (Long/Savit)";
