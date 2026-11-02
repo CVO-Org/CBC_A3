@@ -38,6 +38,7 @@ Hooks weapons and magazines into shared magazine wells, so weapons accept compat
 | [BWMod](https://steamcommunity.com/sharedfiles/filedetails/?id=1200127537) | G36 (G36 magazines only), G38, G28 / G27 |
 | [R3F Armes](https://steamcommunity.com/sharedfiles/filedetails/?id=941128190) | HK417M, HK416M, SIG551 |
 | JCA standalone weapons or [JCA - Infantry Arsenal](https://steamcommunity.com/sharedfiles/filedetails/?id=3333302397) | Gen 4 (M4A1 / M4A4 / SR10 / SR25), M16A4, HK433, HK437, SCAR-H / SCAR-L, P226, M9A1, G17, MP5, UMP, MP7, M107, M115A3 |
+| [RZ - MCR56](https://steamcommunity.com/sharedfiles/filedetails/?id=3808454297) | MCR56 / MCR56 Commando (5.56 variants): belt boxes and pouches, matching weapon model |
 
 ### Terrain Tweaks
 
