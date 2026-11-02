@@ -4,4 +4,4 @@ Adds `XEH_ENABLED` to `LIB_AmmoOrdnance_base` from `@ifa3_aio_lite_ace_compatch`
 
 Steam Workshop: [IFA3 AIO Lite ACE Compatch](https://steamcommunity.com/sharedfiles/filedetails/?id=773759919)
 
-Maintainer: 
+Maintainer: CBC_A3 Team
