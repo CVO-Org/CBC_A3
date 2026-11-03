@@ -12,11 +12,6 @@ class CfgMagazineWells {
             "hlc_10Rnd_763x25_JHP_C96"
         };
     };
-    class CBA_9x19_MP5 {
-        HLC_Magazines[] = {
-            "hlc_50rnd_9x19_B_9mmar"
-        };
-    };
     class CBA_556x45_SG550 {
         HLC_Magazines[] = {
             "hlc_30rnd_556x45_M_sg550"
