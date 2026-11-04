@@ -69,6 +69,10 @@ Hooks weapons and magazines into shared magazine wells, so weapons accept compat
 [td]JCA standalone weapons or [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3333302397]JCA - Infantry Arsenal[/url][/td]
 [td]Gen 4 (M4A1 / M4A4 / SR10 / SR25), M16A4, HK433, HK437, SCAR-H / SCAR-L, P226, M9A1, G17, MP5, UMP, MP7, M107, M115A3[/td]
 [/tr]
+[tr]
+[td][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3808454297]RZ - MCR56[/url][/td]
+[td]MCR56 / MCR56 Commando (5.56 variants): belt boxes and pouches, matching weapon model[/td]
+[/tr]
 [/table]
 
 [h2]ACE Fragmentation[/h2]

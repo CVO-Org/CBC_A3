@@ -190,6 +190,14 @@ workshop = [
     "3333302397", #JCA - Infantry Arsenal
 ]
 
+[magwell_mcr56]
+extends = "default"
+workshop = [
+    "3808454297", #RZ - MCR56
+    "843577117",  #RHS USAF
+    "497660133",  #CUP Weapons
+]
+
 [winter]
 extends = "default"
 workshop = [
