@@ -95,3 +95,5 @@ Pull requests are welcome. Feel free to add yourself to [CONTRIBUTORS.md](CONTRI
 ## License
 
 This project is released under the [GNU General Public License v2.0](LICENSE.md).
+
+Some addons are based on MIT-licensed code and stay under the MIT License. Each of them has its own `LICENSE.md` in its addon folder; see the note at the top of [LICENSE.md](LICENSE.md).
