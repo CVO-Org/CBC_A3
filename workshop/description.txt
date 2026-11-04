@@ -51,7 +51,7 @@ Hooks weapons and magazines into shared magazine wells, so weapons accept compat
 [/tr]
 [tr]
 [td][url=https://steamcommunity.com/sharedfiles/filedetails/?id=667454606]NIArms (HLC)[/url][/td]
-[td]G3 / HK33 / HK53, AWC[/td]
+[td]G3 / HK33 / HK53, M14, FAL, SCAR-H, AWC, STANAG 5.56[/td]
 [/tr]
 [tr]
 [td][url=https://steamcommunity.com/sharedfiles/filedetails/?id=497660133]CUP Weapons[/url][/td]
@@ -90,6 +90,26 @@ Turns off ACE fragmentation for items that shouldn't throw shrapnel. Only loads 
 [/tr]
 [/table]
 
+[h2]CBA Joint Rails[/h2]
+
+Adds attachments and weapons to [url=https://github.com/CBATeam/CBA_A3/tree/master/addons/jr]CBA Joint Rails[/url] slots, so they accept the attachments you'd expect from the real weapons.
+
+[table]
+[tr]
+[th]Mod[/th]
+[th]Covered[/th]
+[/tr]
+[tr]
+[td]Vanilla Arma 3 (Contact DLC)[/td]
+[td]MSBS optic and pointer rails[/td]
+[/tr]
+[tr]
+[td][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1208517358]NIArms (HLC)[/url] with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1673456286]3CB Factions[/url][/td]
+[td]NIArms muzzle devices on 3CB Factions HK33, G3 and M14 weapons[/td]
+[/tr]
+[/table]
+
+
 [h2]Terrain Tweaks[/h2]
 
 [table]
@@ -114,7 +134,7 @@ Turns off ACE fragmentation for items that shouldn't throw shrapnel. Only loads 
 [h2]Planned[/h2]
 
 [list]
-[*]CBA Joint Rails compatibility
+[*]More CBA Joint Rails compatibility
 [/list]
 
 [h1]Installation[/h1]
