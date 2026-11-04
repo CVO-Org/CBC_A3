@@ -51,7 +51,7 @@ Hooks weapons and magazines into shared magazine wells, so weapons accept compat
 [/tr]
 [tr]
 [td][url=https://steamcommunity.com/sharedfiles/filedetails/?id=667454606]NIArms (HLC)[/url][/td]
-[td]G3 / HK33 / HK53, M14, FAL, SCAR-H, AWC, STANAG 5.56[/td]
+[td]G3 / HK33 / HK53, M14, FAL, SCAR-H, AK, SAW, M60E4, AWC, STANAG 5.56 and more[/td]
 [/tr]
 [tr]
 [td][url=https://steamcommunity.com/sharedfiles/filedetails/?id=497660133]CUP Weapons[/url][/td]
