@@ -109,6 +109,20 @@ Adds attachments and weapons to [url=https://github.com/CBATeam/CBA_A3/tree/mast
 [/tr]
 [/table]
 
+[h2]Weapon Names[/h2]
+
+Clearer in-game display names for weapons that share a generic name.
+
+[table]
+[tr]
+[th]Mod[/th]
+[th]Covered[/th]
+[/tr]
+[tr]
+[td][url=https://steamcommunity.com/sharedfiles/filedetails/?id=667454606]NIArms (HLC)[/url][/td]
+[td]ACR, FAL, G3, G36, HK416, M14, M1903, MP5, SAW, XM8[/td]
+[/tr]
+[/table]
 
 [h2]Terrain Tweaks[/h2]
 

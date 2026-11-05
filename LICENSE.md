@@ -1,3 +1,16 @@
+> **Note:** This license covers the project except where an addon folder has its
+> own `LICENSE.md`. Those addons are based on third-party code released under the
+> MIT License and stay under it; see the `LICENSE.md` and `readme.md` in each of
+> these folders:
+>
+> - `addons/compat_jr_hlc`, all `addons/compat_names_hlc_*` folders and the HLC magwell
+>   folders `addons/compat_magwell_hlc_ak`, `_fal`, `_m14`, `_mg`, `_misc`, `_saw`, `_scar`
+>   and `_stanag`:
+>   based on [Weapons-Balance-NIArms](https://github.com/johnb432/Weapons-Balance-NIArms),
+>   Copyright (c) 2021 johnb432
+> - `addons/compat_jr_vanilla`: based on [mods-gear](https://github.com/team-gsri/mods-gear),
+>   Copyright (c) 2020 GSRI
+
 GNU General Public License
 ==========================
 

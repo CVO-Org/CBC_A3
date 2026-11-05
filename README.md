@@ -57,6 +57,13 @@ Adds attachments and weapons to [CBA Joint Rails](https://github.com/CBATeam/CBA
 | Vanilla Arma 3 (Contact DLC) | MSBS optic and pointer rails |
 | [NIArms (HLC)](https://steamcommunity.com/sharedfiles/filedetails/?id=1208517358) with [3CB Factions](https://steamcommunity.com/sharedfiles/filedetails/?id=1673456286) | NIArms muzzle devices on 3CB Factions HK33, G3 and M14 weapons |
 
+### Weapon Names
+
+Clearer in-game display names for weapons that share a generic name.
+
+| Mod | Covered |
+| --- | --- |
+| [NIArms (HLC)](https://steamcommunity.com/sharedfiles/filedetails/?id=667454606) | ACR, FAL, G3, G36, HK416, M14, M1903, MP5, SAW, XM8 |
 
 ### Terrain Tweaks
 
@@ -88,3 +95,5 @@ Pull requests are welcome. Feel free to add yourself to [CONTRIBUTORS.md](CONTRI
 ## License
 
 This project is released under the [GNU General Public License v2.0](LICENSE.md).
+
+Some addons are based on MIT-licensed code and stay under the MIT License. Each of them has its own `LICENSE.md` in its addon folder; see the note at the top of [LICENSE.md](LICENSE.md).
