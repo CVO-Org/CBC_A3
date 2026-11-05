@@ -193,22 +193,8 @@ workshop = [
     "1598087521", #Summa Winter
 ]
 
-[frag_jca_ia]
+[jca_hf]
 extends = "default"
 workshop = [
-    "463939057",  #ACE3
-    "3333302397", #JCA - Infantry Arsenal
-]
-
-[frag_jca_hf]
-extends = "default"
-workshop = [
-    "463939057",  #ACE3
     "2991684121", #JCA - Hand Flares
-]
-
-[frag_jca_hfia]
-extends = "frag_jca_hf"
-workshop = [
-    "3333302397", #JCA - Infantry Arsenal
 ]
