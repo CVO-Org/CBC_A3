@@ -9,7 +9,6 @@ class CfgWeapons {
     class Uns_HMG;
     class Uns_LMG;
     class Uns_Shotgun;
-    class uns_ithaca37;
     class Uns_SMG;
 
     class uns_ak47_base: Uns_Rifle762 {
@@ -95,9 +94,6 @@ class CfgWeapons {
     };
     class uns_m870: Uns_Shotgun {
         magazineWell[] += {"CBA_12g_1rnd", "CBA_12g_2rnds", "CBA_12g_3rnds", "CBA_12g_4rnds", "CBA_12g_5rnds", "CBA_12g_6rnds", "CBA_12g_7rnds", "CBA_12g_8rnds"};
-    };
-    class uns_model12: uns_ithaca37 {
-        magazineWell[] += {"CBA_12g_5rnds", "CBA_12g_6rnds"};
     };
     class uns_sten: Uns_SMG {
         magazineWell[] += {"CBA_9x19_STEN"};

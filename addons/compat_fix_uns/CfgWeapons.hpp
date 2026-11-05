@@ -38,6 +38,10 @@ class CfgWeapons {
     class uns_ithaca37: Uns_Shotgun {
         magazineWell[] = {"CBA_12g_1rnd", "CBA_12g_2rnds", "CBA_12g_3rnds", "CBA_12g_4rnds"};
     };
+    // Set in full here, not appended, so it does not depend on whether this loads before or after the Ithaca 37 fix.
+    class uns_model12: uns_ithaca37 {
+        magazineWell[] = {"CBA_12g_1rnd", "CBA_12g_2rnds", "CBA_12g_3rnds", "CBA_12g_4rnds", "CBA_12g_5rnds", "CBA_12g_6rnds"};
+    };
     class uns_k50m: uns_PPS43 {
         magazineWell[] = {"UNS_762x25_PPSh"};
     };
