@@ -24,10 +24,7 @@ class CfgWeapons {
             magazineWell[] += {"CBA_12g_1rnd", "CBA_12g_2rnds", "CBA_12g_3rnds", "CBA_12g_4rnds", "CBA_12g_5rnds", "CBA_12g_6rnds"};
         };
     };
-    // Rook-40 is an MP-443 Grach, the PM a Makarov.
-    class hgun_Rook40_F: Pistol_Base_F {
-        magazineWell[] += {"CBA_9x19_MP443"};
-    };
+    // The PM is a Makarov. (The Rook-40 is left alone: other mods, e.g. the 3CB CZ 75, are built on it.)
     class hgun_Pistol_01_F: Pistol_Base_F {
         magazineWell[] += {"CBA_9x18_PM"};
     };
