@@ -33,11 +33,12 @@ Hooks weapons and magazines into shared magazine wells, so weapons accept compat
 | Vanilla Arma 3 | 40mm UGL grenades, 150Rnd 5.56mm drums |
 | [ACE3](https://steamcommunity.com/sharedfiles/filedetails/?id=463939057) | 7.62x51 / 5.56x45 magazines, HuntIR |
 | [RHS USAF](https://steamcommunity.com/sharedfiles/filedetails/?id=843577117) | XM2010, M4, M14 EBR-RI |
-| [NIArms (HLC)](https://steamcommunity.com/sharedfiles/filedetails/?id=667454606) | G3 / HK33 / HK53, M14, FAL, SCAR-H, AWC, STANAG 5.56 |
+| [NIArms (HLC)](https://steamcommunity.com/sharedfiles/filedetails/?id=667454606) | G3 / HK33 / HK53, M14, FAL, SCAR-H, AK, SAW, M60E4, AWC, STANAG 5.56 and more |
 | [CUP Weapons](https://steamcommunity.com/sharedfiles/filedetails/?id=497660133) | M24 |
 | [BWMod](https://steamcommunity.com/sharedfiles/filedetails/?id=1200127537) | G36 (G36 magazines only), G38, G28 / G27 |
 | [R3F Armes](https://steamcommunity.com/sharedfiles/filedetails/?id=941128190) | HK417M, HK416M, SIG551 |
 | JCA standalone weapons or [JCA - Infantry Arsenal](https://steamcommunity.com/sharedfiles/filedetails/?id=3333302397) | Gen 4 (M4A1 / M4A4 / SR10 / SR25), M16A4, HK433, HK437, SCAR-H / SCAR-L, P226, M9A1, G17, MP5, UMP, MP7, M107, M115A3 |
+| [RZ - MCR56](https://steamcommunity.com/sharedfiles/filedetails/?id=3808454297) | MCR56 / MCR56 Commando (5.56 variants): belt boxes and pouches, matching weapon model |
 
 ### ACE Fragmentation
 
@@ -56,6 +57,13 @@ Adds attachments and weapons to [CBA Joint Rails](https://github.com/CBATeam/CBA
 | Vanilla Arma 3 (Contact DLC) | MSBS optic and pointer rails |
 | [NIArms (HLC)](https://steamcommunity.com/sharedfiles/filedetails/?id=1208517358) with [3CB Factions](https://steamcommunity.com/sharedfiles/filedetails/?id=1673456286) | NIArms muzzle devices on 3CB Factions HK33, G3 and M14 weapons |
 
+### Weapon Names
+
+Clearer in-game display names for weapons that share a generic name.
+
+| Mod | Covered |
+| --- | --- |
+| [NIArms (HLC)](https://steamcommunity.com/sharedfiles/filedetails/?id=667454606) | ACR, FAL, G3, G36, HK416, M14, M1903, MP5, SAW, XM8 |
 
 ### Terrain Tweaks
 
@@ -87,3 +95,5 @@ Pull requests are welcome. Feel free to add yourself to [CONTRIBUTORS.md](CONTRI
 ## License
 
 This project is released under the [GNU General Public License v2.0](LICENSE.md).
+
+Some addons are based on MIT-licensed code and stay under the MIT License. Each of them has its own `LICENSE.md` in its addon folder; see the note at the top of [LICENSE.md](LICENSE.md).

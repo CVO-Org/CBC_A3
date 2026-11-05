@@ -51,7 +51,7 @@ Hooks weapons and magazines into shared magazine wells, so weapons accept compat
 [/tr]
 [tr]
 [td][url=https://steamcommunity.com/sharedfiles/filedetails/?id=667454606]NIArms (HLC)[/url][/td]
-[td]G3 / HK33 / HK53, M14, FAL, SCAR-H, AWC, STANAG 5.56[/td]
+[td]G3 / HK33 / HK53, M14, FAL, SCAR-H, AK, SAW, M60E4, AWC, STANAG 5.56 and more[/td]
 [/tr]
 [tr]
 [td][url=https://steamcommunity.com/sharedfiles/filedetails/?id=497660133]CUP Weapons[/url][/td]
@@ -68,6 +68,10 @@ Hooks weapons and magazines into shared magazine wells, so weapons accept compat
 [tr]
 [td]JCA standalone weapons or [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3333302397]JCA - Infantry Arsenal[/url][/td]
 [td]Gen 4 (M4A1 / M4A4 / SR10 / SR25), M16A4, HK433, HK437, SCAR-H / SCAR-L, P226, M9A1, G17, MP5, UMP, MP7, M107, M115A3[/td]
+[/tr]
+[tr]
+[td][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3808454297]RZ - MCR56[/url][/td]
+[td]MCR56 / MCR56 Commando (5.56 variants): belt boxes and pouches, matching weapon model[/td]
 [/tr]
 [/table]
 
@@ -105,6 +109,20 @@ Adds attachments and weapons to [url=https://github.com/CBATeam/CBA_A3/tree/mast
 [/tr]
 [/table]
 
+[h2]Weapon Names[/h2]
+
+Clearer in-game display names for weapons that share a generic name.
+
+[table]
+[tr]
+[th]Mod[/th]
+[th]Covered[/th]
+[/tr]
+[tr]
+[td][url=https://steamcommunity.com/sharedfiles/filedetails/?id=667454606]NIArms (HLC)[/url][/td]
+[td]ACR, FAL, G3, G36, HK416, M14, M1903, MP5, SAW, XM8[/td]
+[/tr]
+[/table]
 
 [h2]Terrain Tweaks[/h2]
 
