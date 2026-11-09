@@ -4,6 +4,6 @@ Names the folded AK / AS Val variants after their camo and stock state (11), and
 
 Based on [Weapons-Balance-RHS](https://github.com/johnb432/Weapons-Balance-RHS) by johnb432, MIT License, Copyright (c) 2021 johnb432. Display names only, no balance changes.
 
-Not verified against the mod's configs and not tested in game.
+Class names checked against the RHS AFRF 0.5.6 configs.
 
 Maintainer: Andx

@@ -29,12 +29,6 @@ class CfgMagazineWells {
             "rhs_100Rnd_762x54mmR_7BZ3"
         };
     };
-    class SVD_762x54R {
-        CBC_RHS_AFRF_Magazines[] = {
-            "rhs_10Rnd_762x54mmR_7N1",
-            "rhs_10Rnd_762x54mmR_7N14"
-        };
-    };
     class CBA_RPG7 {
         CBC_RHS_AFRF_Magazines[] = {
             "rhs_rpg7_OG7V_mag",
@@ -44,11 +38,6 @@ class CfgMagazineWells {
             "rhs_rpg7_PG7VR_mag",
             "rhs_rpg7_PG7VS_mag",
             "rhs_rpg7_TBG7V_mag"
-        };
-    };
-    class CBA_STRELA {
-        CBC_RHS_AFRF_Magazines[] = {
-            "rhs_mag_9k38_rocket"
         };
     };
 };
