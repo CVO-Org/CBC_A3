@@ -70,6 +70,8 @@ jobs:
 
         - name: Setup HEMTT
           uses: arma-actions/hemtt@v1
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Authenticated API requests to avoid rate limits
 
         - name: Run HEMTT build
           run: hemtt release --no-archive
@@ -98,3 +100,9 @@ jobs:
           env:
             STEAM_USERNAME: ${{ secrets.STEAM_USERNAME }}
             STEAM_PASSWORD: ${{ secrets.STEAM_PASSWORD }}
+
+  # Announces full releases only after the upload succeeded
+  discord-notice:
+    needs: release-addon
+    uses: ./.github/workflows/release-notice.yml
+    secrets: inherit
