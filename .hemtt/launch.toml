@@ -45,27 +45,27 @@ workshop = [
     "520618345", #Jbad
 ]
 
-[magwell_ace]
+[ace]
 extends = "default"
 workshop = [
     "463939057", #ACE3
 ]
 
-[magwell_rhs]
+[rhs]
 extends = "default"
 workshop = [
     "843425103", #RHS AFRF
     "843577117", #RHS USAF
 ]
 
-[magwell_hlc_g3]
+[hlc_g3]
 extends = "default"
 workshop = [
     "667454606", #NIArms Core
     "667375637", #NIArms G3 Rifles
 ]
 
-[magwell_hlc_awc]
+[hlc_awc]
 extends = "default"
 workshop = [
     "667454606", #NIArms Core
@@ -78,7 +78,7 @@ workshop = [
     "2595680138", #NIArms All In One
 ]
 
-[magwell_cup]
+[cup]
 extends = "default"
 workshop = [
     "497660133", #CUP Weapons
@@ -94,108 +94,100 @@ workshop = [
     "843593391",  #RHS GREF
 ]
 
-[magwell_r3f]
+[r3f]
 extends = "default"
 workshop = [
     "941128190", #R3F Armes
 ]
 
-[magwell_bwa3]
-extends = "default"
-workshop = [
-    "1200127537", #BWMod
-]
-
-[magwell_jca_gen4]
+[jca_gen4]
 extends = "default"
 workshop = [
     "3149544080", #JCA - Gen 4 Weapon Family
 ]
 
-[magwell_jca_m16a4]
+[jca_m16a4]
 extends = "default"
 workshop = [
     "3343727154", #JCA - M16A4
 ]
 
-[magwell_jca_hk433]
+[jca_hk433]
 extends = "default"
 workshop = [
     "3593321509", #JCA - HK433
 ]
 
-[magwell_jca_hk437]
+[jca_hk437]
 extends = "default"
 workshop = [
     "3625840163", #JCA - HK437
 ]
 
-[magwell_jca_scar]
+[jca_scar]
 extends = "default"
 workshop = [
     "3766052768", #JCA - SCAR
 ]
 
-[magwell_jca_p226]
+[jca_p226]
 extends = "default"
 workshop = [
     "3328185289", #JCA - P226
 ]
 
-[magwell_jca_m9a1]
+[jca_m9a1]
 extends = "default"
 workshop = [
     "3457335790", #JCA - M9A1
 ]
 
-[magwell_jca_g17]
+[jca_g17]
 extends = "default"
 workshop = [
     "3739753424", #JCA - Glock 17
 ]
 
-[magwell_jca_mp5]
+[jca_mp5]
 extends = "default"
 workshop = [
     "3302425224", #JCA - MP5A5
 ]
 
-[magwell_jca_ump]
+[jca_ump]
 extends = "default"
 workshop = [
     "3397288027", #JCA - UMP45
 ]
 
-[magwell_jca_mp7]
+[jca_mp7]
 extends = "default"
 workshop = [
     "3798659916", #JCA - MP7A2
 ]
 
-[magwell_jca_m107]
+[jca_m107]
 extends = "default"
 workshop = [
     "3559739995", #JCA - M107A1
 ]
 
-[magwell_jca_awm]
+[jca_awm]
 extends = "default"
 workshop = [
     "3148699851", #JCA - M115A3
 ]
 
-[magwell_jca_ia]
+[jca_ia]
 extends = "default"
 workshop = [
     "3333302397", #JCA - Infantry Arsenal
 ]
 
-[magwell_mcr56]
+[mcr56]
 extends = "default"
 workshop = [
     "3808454297", #RZ - MCR56
-    "843577117",  #RHS USAF
-    "497660133",  #CUP Weapons
 ]
 
 [winter]
@@ -207,22 +199,8 @@ workshop = [
     "1598087521", #Summa Winter
 ]
 
-[frag_jca_ia]
+[jca_hf]
 extends = "default"
 workshop = [
-    "463939057",  #ACE3
-    "3333302397", #JCA - Infantry Arsenal
-]
-
-[frag_jca_hf]
-extends = "default"
-workshop = [
-    "463939057",  #ACE3
     "2991684121", #JCA - Hand Flares
-]
-
-[frag_jca_hfia]
-extends = "frag_jca_hf"
-workshop = [
-    "3333302397", #JCA - Infantry Arsenal
 ]
