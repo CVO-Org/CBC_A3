@@ -1,7 +1,47 @@
+# One profile per addon, named after the addon without "compat_" and its type
+# (fix_, frag_, jr_, magwell_, names_): compat_magwell_rhs_saf -> rhs_saf.
+# Each profile loads the mods the addon needs, including their own dependencies.
+# Usage: hemtt launch rhs_saf
+
 [default]
 workshop = [
     "450814997",  #CBA_A3
     "3499977893", #ADT
+]
+
+[ace]
+extends = "default"
+workshop = [
+    "463939057", #ACE3
+]
+
+[ace_3cb]
+extends = "default"
+workshop = [
+    "463939057",  #ACE3
+    "843425103",  #RHS AFRF
+    "843577117",  #RHS USAF
+    "843593391",  #RHS GREF
+    "1673456286", #3CB Factions
+]
+
+[ace_cba]
+extends = "default"
+workshop = [
+    "463939057", #ACE3
+]
+
+[armafpv]
+extends = "default"
+workshop = [
+    "3045129955", #FPV Drone Crocus (ArmaFPV)
+]
+
+[bettir_ace]
+extends = "default"
+workshop = [
+    "2260572637", #BettIR
+    "463939057",  #ACE3
 ]
 
 [breach]
@@ -12,22 +52,17 @@ workshop = [
     "463939057",  #ACE3
 ]
 
-[rnt]
+[bwa3]
 extends = "default"
 workshop = [
-    "1128145626", #Redd'n'Tank Vehicles
-]
-
-[fir_aws]
-extends = "default"
-workshop = [
-    "366425329", #FIR AWS (AirWeaponSystem)
+    "1200127537", #BWMod
 ]
 
 [bwmod]
 extends = "default"
 workshop = [
     "1200127537", #BWMod
+    "463939057",  #ACE3
 ]
 
 [cfp]
@@ -39,74 +74,168 @@ workshop = [
     "497660133",  #CUP Weapons
 ]
 
-[jbad]
-extends = "default"
-workshop = [
-    "520618345", #Jbad
-]
-
-[ace]
-extends = "default"
-workshop = [
-    "463939057", #ACE3
-]
-
-[rhs]
-extends = "default"
-workshop = [
-    "843425103", #RHS AFRF
-    "843577117", #RHS USAF
-]
-
-[rhs_saf]
-extends = "default"
-workshop = [
-    "843425103", #RHS AFRF
-    "843577117", #RHS USAF
-    "843593391", #RHS GREF
-    "843632231", #RHS SAF
-]
-
-[hlc_g3]
-extends = "default"
-workshop = [
-    "667454606", #NIArms Core
-    "667375637", #NIArms G3 Rifles
-]
-
-[hlc_awc]
-extends = "default"
-workshop = [
-    "667454606", #NIArms Core
-    "509730197", #NIArms AWM Rifles
-]
-
-[hlc_aio]
-extends = "default"
-workshop = [
-    "2595680138", #NIArms All In One
-]
-
 [cup]
 extends = "default"
 workshop = [
     "497660133", #CUP Weapons
 ]
 
-[jr_hlc]
+[fir_aws]
+extends = "default"
+workshop = [
+    "366425329", #FIR AWS (AirWeaponSystem)
+]
+
+[hellanmaaw]
+extends = "default"
+workshop = [
+    "583496184",  #CUP Terrains - Core
+    "1291778160", #Hellanmaa Winter
+]
+
+[hlc]
 extends = "default"
 workshop = [
     "2595680138", #NIArms All In One
-    "1673456286", #3CB Factions
     "843425103",  #RHS AFRF
     "843577117",  #RHS USAF
     "843593391",  #RHS GREF
+    "1673456286", #3CB Factions
 ]
 
-[r3f]
+[hlc_acr]
 extends = "default"
 workshop = [
-    "941128190", #R3F Armes
+    "2595680138", #NIArms All In One
+]
+
+[hlc_ak]
+extends = "default"
+workshop = [
+    "2595680138", #NIArms All In One
+]
+
+[hlc_awc]
+extends = "default"
+workshop = [
+    "2595680138", #NIArms All In One
+]
+
+[hlc_fal]
+extends = "default"
+workshop = [
+    "2595680138", #NIArms All In One
+]
+
+[hlc_g3]
+extends = "default"
+workshop = [
+    "2595680138", #NIArms All In One
+]
+
+[hlc_g36]
+extends = "default"
+workshop = [
+    "2595680138", #NIArms All In One
+]
+
+[hlc_hk416]
+extends = "default"
+workshop = [
+    "2595680138", #NIArms All In One
+]
+
+[hlc_m14]
+extends = "default"
+workshop = [
+    "2595680138", #NIArms All In One
+]
+
+[hlc_m1903]
+extends = "default"
+workshop = [
+    "2595680138", #NIArms All In One
+]
+
+[hlc_mg]
+extends = "default"
+workshop = [
+    "2595680138", #NIArms All In One
+]
+
+[hlc_misc]
+extends = "default"
+workshop = [
+    "2595680138", #NIArms All In One
+]
+
+[hlc_mp5]
+extends = "default"
+workshop = [
+    "2595680138", #NIArms All In One
+]
+
+[hlc_saw]
+extends = "default"
+workshop = [
+    "2595680138", #NIArms All In One
+]
+
+[hlc_scar]
+extends = "default"
+workshop = [
+    "2595680138", #NIArms All In One
+]
+
+[hlc_stanag]
+extends = "default"
+workshop = [
+    "2595680138", #NIArms All In One
+]
+
+[hlc_xm8]
+extends = "default"
+workshop = [
+    "2595680138", #NIArms All In One
+]
+
+[ifa]
+extends = "default"
+workshop = [
+    "2648308937", #IFA3 AIO Lite
+]
+
+[ifa_ace]
+extends = "default"
+workshop = [
+    "2648308937", #IFA3 AIO Lite
+    "773759919",  #IFA3 AIO Lite ACE Compatch
+    "463939057",  #ACE3
+]
+
+[ihantalaw]
+extends = "default"
+workshop = [
+    "583496184",  #CUP Terrains - Core
+    "1494127420", #Ihantala Winter
+]
+
+[jbad]
+extends = "default"
+workshop = [
+    "520618345", #Jbad
+]
+
+[jca_awm]
+extends = "default"
+workshop = [
+    "3148699851", #JCA - M115A3
+]
+
+[jca_g17]
+extends = "default"
+workshop = [
+    "3739753424", #JCA - Glock 17
 ]
 
 [jca_gen4]
@@ -115,10 +244,11 @@ workshop = [
     "3149544080", #JCA - Gen 4 Weapon Family
 ]
 
-[jca_m16a4]
+[jca_hf]
 extends = "default"
 workshop = [
-    "3343727154", #JCA - M16A4
+    "2991684121", #JCA - Hand Flares
+    "463939057",  #ACE3
 ]
 
 [jca_hk433]
@@ -133,46 +263,10 @@ workshop = [
     "3625840163", #JCA - HK437
 ]
 
-[jca_scar]
+[jca_ia]
 extends = "default"
 workshop = [
-    "3766052768", #JCA - SCAR
-]
-
-[jca_p226]
-extends = "default"
-workshop = [
-    "3328185289", #JCA - P226
-]
-
-[jca_m9a1]
-extends = "default"
-workshop = [
-    "3457335790", #JCA - M9A1
-]
-
-[jca_g17]
-extends = "default"
-workshop = [
-    "3739753424", #JCA - Glock 17
-]
-
-[jca_mp5]
-extends = "default"
-workshop = [
-    "3302425224", #JCA - MP5A5
-]
-
-[jca_ump]
-extends = "default"
-workshop = [
-    "3397288027", #JCA - UMP45
-]
-
-[jca_mp7]
-extends = "default"
-workshop = [
-    "3798659916", #JCA - MP7A2
+    "3333302397", #JCA - Infantry Arsenal
 ]
 
 [jca_m107]
@@ -181,35 +275,162 @@ workshop = [
     "3559739995", #JCA - M107A1
 ]
 
-[jca_awm]
+[jca_m16a4]
 extends = "default"
 workshop = [
-    "3148699851", #JCA - M115A3
+    "3343727154", #JCA - M16A4
 ]
 
-[jca_ia]
+[jca_m9a1]
 extends = "default"
 workshop = [
-    "3333302397", #JCA - Infantry Arsenal
+    "3457335790", #JCA - M9A1
 ]
 
+[jca_mp5]
+extends = "default"
+workshop = [
+    "3302425224", #JCA - MP5A5
+]
+
+[jca_mp7]
+extends = "default"
+workshop = [
+    "3798659916", #JCA - MP7A2
+]
+
+[jca_p226]
+extends = "default"
+workshop = [
+    "3328185289", #JCA - P226
+]
+
+[jca_scar]
+extends = "default"
+workshop = [
+    "3766052768", #JCA - SCAR
+]
+
+[jca_ump]
+extends = "default"
+workshop = [
+    "3397288027", #JCA - UMP45
+]
+
+# RHS and CUP load the belts the MCR56 switches its model for.
 [mcr56]
 extends = "default"
 workshop = [
     "3808454297", #RZ - MCR56
+    "843425103",  #RHS AFRF
+    "843577117",  #RHS USAF
+    "497660133",  #CUP Weapons
 ]
 
-[winter]
+[r3f]
+extends = "default"
+workshop = [
+    "941128190", #R3F Armes
+]
+
+[rhs]
+extends = "default"
+workshop = [
+    "843425103", #RHS AFRF
+    "843577117", #RHS USAF
+]
+
+[rhs_afrf]
+extends = "default"
+workshop = [
+    "843425103", #RHS AFRF
+]
+
+[rhs_gref]
+extends = "default"
+workshop = [
+    "843425103", #RHS AFRF
+    "843577117", #RHS USAF
+    "843593391", #RHS GREF
+]
+
+[rhs_saf]
+extends = "default"
+workshop = [
+    "843425103", #RHS AFRF
+    "843577117", #RHS USAF
+    "843593391", #RHS GREF
+    "843632231", #RHS SAF
+]
+
+[rhs_usaf]
+extends = "default"
+workshop = [
+    "843425103", #RHS AFRF
+    "843577117", #RHS USAF
+]
+
+[rhs_usaf_3cb]
+extends = "default"
+workshop = [
+    "843425103",  #RHS AFRF
+    "843577117",  #RHS USAF
+    "843593391",  #RHS GREF
+    "1673456286", #3CB Factions
+]
+
+[rhs_usaf_hlc]
+extends = "default"
+workshop = [
+    "843425103",  #RHS AFRF
+    "843577117",  #RHS USAF
+    "2595680138", #NIArms All In One
+]
+
+[rnt]
+extends = "default"
+workshop = [
+    "1128145626", #Redd'n'Tank Vehicles
+    "463939057",  #ACE3
+]
+
+[summaw]
 extends = "default"
 workshop = [
     "583496184",  #CUP Terrains - Core
-    "1291778160", #Hellanmaa Winter
-    "1494127420", #Ihantala Winter
     "1598087521", #Summa Winter
 ]
 
-[jca_hf]
+[vanilla]
+extends = "default"
+workshop = []
+
+[vanilla_3cb]
 extends = "default"
 workshop = [
-    "2991684121", #JCA - Hand Flares
+    "843425103",  #RHS AFRF
+    "843577117",  #RHS USAF
+    "843593391",  #RHS GREF
+    "1673456286", #3CB Factions
+]
+
+[vanilla_cba]
+extends = "default"
+workshop = []
+
+[vanilla_hlc]
+extends = "default"
+workshop = [
+    "2595680138", #NIArms All In One
+]
+
+[vanilla_rails]
+extends = "default"
+workshop = []
+
+[vanilla_rhs]
+extends = "default"
+workshop = [
+    "843425103", #RHS AFRF
+    "843577117", #RHS USAF
 ]
