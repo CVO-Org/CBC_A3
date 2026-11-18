@@ -9,7 +9,7 @@ class CfgPatches {
         units[] = {};
         weapons[] = {};
         requiredVersion = REQUIRED_VERSION;
-        requiredAddons[] = {"rhssaf_main_loadorder"};
+        requiredAddons[] = {"rhssaf_c_weapons"};
         authors[] = {"johnb432", "Andx"};
         // If any requiredAddons[] entry is missing, the entire config is silently ignored (RPT only) - useful for a compat mod (since Arma 3 2.14)
         skipWhenMissingDependencies = 1;

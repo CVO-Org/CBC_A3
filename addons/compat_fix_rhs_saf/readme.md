@@ -5,6 +5,6 @@
 
 Based on [Weapons-Balance-RHS](https://github.com/johnb432/Weapons-Balance-RHS) by johnb432, MIT License, Copyright (c) 2021 johnb432. Config fixes only, no balance changes.
 
-Not verified against the mod's configs and not tested in game.
+Checked against the RHS SAF configs, not tested in game.
 
 Maintainer: Andx
