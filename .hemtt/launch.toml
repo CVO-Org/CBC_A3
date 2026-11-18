@@ -58,6 +58,15 @@ workshop = [
     "843577117", #RHS USAF
 ]
 
+[rhs_saf]
+extends = "default"
+workshop = [
+    "843425103", #RHS AFRF
+    "843577117", #RHS USAF
+    "843593391", #RHS GREF
+    "843632231", #RHS SAF
+]
+
 [hlc_g3]
 extends = "default"
 workshop = [
