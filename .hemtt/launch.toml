@@ -103,6 +103,13 @@ workshop = [
     "1673456286", #3CB Factions
 ]
 
+# All HLC addons at once.
+[hlc_aio]
+extends = "default"
+workshop = [
+    "2595680138", #NIArms All In One
+]
+
 [hlc_acr]
 extends = "default"
 workshop = [
