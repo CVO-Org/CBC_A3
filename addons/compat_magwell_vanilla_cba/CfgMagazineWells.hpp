@@ -13,26 +13,6 @@ class CfgMagazineWells {
             "6Rnd_12Gauge_Slug"
         };
     };
-    class CBA_556x45_STANAG {
-        CBC_VANILLA_CBA_Magazines[] = {
-            "30Rnd_556x45_Stanag_Sand",
-            "30Rnd_556x45_Stanag_Sand_green",
-            "30Rnd_556x45_Stanag_Sand_red",
-            "30Rnd_556x45_Stanag_Sand_Tracer_Green",
-            "30Rnd_556x45_Stanag_Sand_Tracer_Red",
-            "30Rnd_556x45_Stanag_Sand_Tracer_Yellow"
-        };
-    };
-    class STANAG_556x45 {
-        CBC_VANILLA_CBA_Magazines[] = {
-            "30Rnd_556x45_Stanag_Sand",
-            "30Rnd_556x45_Stanag_Sand_green",
-            "30Rnd_556x45_Stanag_Sand_red",
-            "30Rnd_556x45_Stanag_Sand_Tracer_Green",
-            "30Rnd_556x45_Stanag_Sand_Tracer_Red",
-            "30Rnd_556x45_Stanag_Sand_Tracer_Yellow"
-        };
-    };
     class CBA_556x45_STANAG_2D_XL {
         CBC_VANILLA_CBA_Magazines[] = {
             "150Rnd_556x45_Drum_Sand_Mag_F",
@@ -43,8 +23,6 @@ class CfgMagazineWells {
     };
     class CBA_580x42_TYPE95_XL {
         CBC_VANILLA_CBA_Magazines[] = {
-            "100Rnd_580x42_Mag_F",
-            "100Rnd_580x42_Mag_Tracer_F",
             "100Rnd_580x42_hex_Mag_F",
             "100Rnd_580x42_hex_Mag_Tracer_F",
             "100Rnd_580x42_ghex_Mag_F",

@@ -10,12 +10,9 @@ class CowsSlot_Rail: CowsSlot {
     };
 };
 
-class asdg_SlotInfo;
-class asdg_OpticRail: asdg_SlotInfo {
-    class compatibleItems;
-};
+class asdg_OpticRail;
 class asdg_OpticRail1913: asdg_OpticRail {
-    class compatibleItems: compatibleItems {
+    class compatibleItems {
         optic_mrd = 1;
         optic_mrd_black = 1;
     };

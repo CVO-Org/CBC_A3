@@ -4,6 +4,6 @@ Adds the vanilla 5.56 suppressors to the 3CB Factions HK33 muzzle slot and the 7
 
 Based on [Weapons-Balance-Vanilla](https://github.com/johnb432/Weapons-Balance-Vanilla) by johnb432, MIT License, Copyright (c) 2021 johnb432. Attachment lists only, no balance changes.
 
-Not verified against the mod's configs and not tested in game.
+Checked against the game and mod configs, not tested in game.
 
 Maintainer: Andx

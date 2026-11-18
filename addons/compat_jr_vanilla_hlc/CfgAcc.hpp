@@ -1,7 +1,7 @@
 // Based on Weapons-Balance-Vanilla by johnb432 (https://github.com/johnb432/Weapons-Balance-Vanilla), MIT License,
 // Copyright (c) 2021 johnb432. Attachment lists only.
-class UnderBarrelSlot;
-class nia_rifle_grips_slot: UnderBarrelSlot {
+class nia_rifle_gripod_slot;
+class nia_rifle_grips_slot: nia_rifle_gripod_slot {
     class compatibleItems {
         bipod_01_F_blk = 1;
         bipod_01_F_khk = 1;
